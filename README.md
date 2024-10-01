@@ -6,7 +6,7 @@ This repository contains resources and tools for working with Excel VBA.
 
 - xlwings
 - watchgod
-- XVBA VSCode extension
+- XVBA VSCode extension (optional)
 
 ## Usage
 
