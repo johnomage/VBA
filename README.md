@@ -1,5 +1,3 @@
-Here's a converted version of your content into a proper README.md format:
-
 # VBA
 
 This repository contains resources and tools for working with Excel VBA.
