@@ -1,0 +1,801 @@
+﻿SalesID,Address,City,Region,SquareFootage,Acreage,  AskingPrice  , SalePrice ,SaleDate
+LEM51525,Pearl Street,Lemington Spa,Midlands,"1,438",0.3," £206,519.46 "," £165,339.48 ",02/09/2020
+BIR54953,Hartford Road,Birmingham,Midlands,"1,116",0.8," £204,486.93 "," £170,153.57 ",10/10/2020
+LON28905,Franklin Court,London,South England,"2,471",0.3," £885,942.45 "," £824,016.45 ",02/12/2020
+BIR21680,Cypress Court,Birmingham,Midlands,"2,614",0.6," £335,311.31 "," £303,926.17 ",23/02/2020
+ESS96296,Mill Street,Essex,South England,"9,355",8.2," £1,540,675.28 "," £1,405,095.86 ",05/12/2020
+LIV98995,Warren Street,Liverpool,Midlands,"2,752",0.1," £404,719.17 "," £334,581.34 ",17/04/2020
+REA82718,6th Street West,Reading,South England,"2,030",0.1," £284,708.28 "," £256,265.93 ",15/11/2020
+MAN92645,Marshall Street,Manchester,North England,"2,923",0.7," £367,653.58 "," £296,071.43 ",28/02/2020
+BIR51239,Atlantic Avenue,Birmingham,Midlands,"5,175",0.6," £615,556.43 "," £591,980.62 ",08/03/2020
+MAN87283,Sherwood Drive,Manchester,North England,"1,902",0.4," £279,883.34 "," £226,229.70 ",09/05/2020
+BRI63741,Catherine Street,Bristol,Midlands,"2,596",0.7," £425,316.15 "," £392,439.21 ",11/10/2020
+BIR13453,Lexington Court,Birmingham,Midlands,"1,678",0.5," £234,716.31 "," £194,908.42 ",09/11/2020
+BIR14188,Heather Court,Birmingham,Midlands,"2,433",0.4," £368,956.17 "," £345,933.30 ",21/12/2020
+MAN61452,Cardinal Drive,Manchester,North England,"1,256",0.7," £199,055.34 "," £170,948.73 ",20/09/2020
+ESS97071,3rd Street East,Essex,South England,"2,128",0.5," £265,276.80 "," £227,076.94 ",29/08/2020
+BRI93407,7th Avenue,Bristol,Midlands,"9,528",0.6," £1,203,374.67 "," £968,235.26 ",27/05/2020
+NEW16710,York Street,Newcastle,North England,"2,299",0.5," £345,198.98 "," £336,776.13 ",21/01/2020
+LIV42716,Fawn Lane,Liverpool,Midlands,"1,175",0.7," £213,791.96 "," £200,600.99 ",18/04/2020
+BRI38377,Dogwood Lane,Bristol,Midlands,"2,750",0.9," £377,296.38 "," £372,693.36 ",28/04/2020
+LON65729,Park Avenue,London,South England,"1,382",0.3," £703,786.68 "," £623,093.68 ",12/06/2020
+NEW50126,1st Street,Newcastle,North England,"1,025",1," £215,401.22 "," £207,905.26 ",01/08/2020
+ESS91200,Roberts Road,Essex,South England,"1,931",0.5," £294,003.67 "," £284,889.56 ",09/08/2020
+LON73922,Lake Avenue,London,South England,"1,520",0.9," £775,084.16 "," £718,182.16 ",29/04/2020
+MID96756,Delaware Avenue,Middlesborough,North England,"1,710",0.9," £225,630.90 "," £220,057.81 ",13/07/2020
+BIR69710,Street Road,Birmingham,Midlands,"2,112",0.1," £306,971.90 "," £246,651.92 ",13/03/2020
+BRI28718,Lafayette Street,Bristol,Midlands,"2,123",0.5," £324,349.09 "," £288,735.56 ",30/09/2020
+ESS48147,Somerset Drive,Essex,South England,"1,106",0.9," £183,841.33 "," £176,800.21 ",25/08/2020
+LIV35178,Broad Street,Liverpool,Midlands,"3,292",0.7," £499,798.63 "," £434,874.79 ",29/08/2020
+LIV81889,Glenwood Drive,Liverpool,Midlands,"2,717",0.8," £348,532.80 "," £305,210.17 ",28/03/2020
+BRI35765,Canal Street,Bristol,Midlands,"4,117",0.5," £561,036.81 "," £480,808.54 ",18/04/2020
+LIV59564,Route 32,Liverpool,Midlands,"1,123",0.6," £203,234.51 "," £168,420.44 ",03/03/2020
+BIR32195,Main Street North,Birmingham,Midlands,"9,938",0.8," £1,044,091.92 "," £979,567.04 ",05/08/2020
+BIR98179,6th Street,Birmingham,Midlands,"1,238",0.5," £200,375.95 "," £169,498.01 ",08/01/2020
+NEW88365,Willow Drive,Newcastle,North England,"2,881",0.3," £348,404.38 "," £296,317.92 ",27/07/2020
+LIV86487,Oak Street,Liverpool,Midlands,"2,833",0.5," £330,672.56 "," £290,462.78 ",28/08/2020
+BRI41364,Durham Court,Bristol,Midlands,"2,126",0.2," £299,930.87 "," £269,667.85 ",26/01/2020
+BRI94655,Cedar Court,Bristol,Midlands,"1,652",0.6," £206,772.66 "," £179,954.24 ",10/02/2020
+NEW51863,Primrose Lane,Newcastle,North England,"1,778",0.2," £256,211.77 "," £228,925.22 ",23/02/2020
+NEW75203,Elizabeth Street,Newcastle,North England,"2,622",6.8," £722,776.45 "," £588,340.03 ",26/03/2020
+NEW74314,Ashley Court,Newcastle,North England,"2,275",0.6," £380,368.18 "," £314,488.41 ",15/04/2020
+BRI41145,Country Club Road,Bristol,Midlands,"9,922",0.8," £1,325,395.38 "," £1,245,739.12 ",23/12/2020
+LON90312,Aspen Court,London,South England,"3,195",0.9," £1,010,620.03 "," £931,629.03 ",27/02/2020
+BIR56421,Edgewood Road,Birmingham,Midlands,"6,790",0.6," £863,190.19 "," £724,130.25 ",18/11/2020
+LON67822,Mulberry Court,London,South England,"1,513",0.1," £683,558.28 "," £608,849.28 ",01/05/2020
+LIV51985,8th Street,Liverpool,Midlands,"2,891",0.9," £430,456.94 "," £415,347.90 ",04/09/2020
+MID25951,Bridle Court,Middlesborough,North England,"2,922",0.6," £363,070.90 "," £328,506.55 ",09/08/2024
+ESS94035,Liberty Street,Essex,South England,"2,685",8.9," £867,125.43 "," £784,488.37 ",22/09/2020
+LON39467,Garden Street,London,South England,"1,519",0.8," £735,031.03 "," £645,265.03 ",17/08/2022
+MID39266,Highland Avenue,Middlesborough,North England,"1,643",0.3," £190,489.55 "," £155,877.60 ",20/03/2020
+LON62258,Pleasant Street,London,South England,"1,781",1," £771,825.00 "," £677,719.00 ",16/08/2020
+ESS30695,Linden Avenue,Essex,South England,"1,429",0.9," £226,285.80 "," £218,297.91 ",22/10/2020
+NEW75275,Jefferson Court,Newcastle,North England,"1,541",10," £781,520.48 "," £649,677.97 ",21/05/2020
+LIV56252,East Street,Liverpool,Midlands,"2,724",0.4," £352,280.77 "," £307,752.48 ",22/07/2020
+BIR24762,Church Street,Birmingham,Midlands,"2,013",0.9," £280,808.66 "," £253,149.01 ",21/10/2020
+REA14321,Sycamore Street,Reading,South England,"1,714",0.9," £219,111.10 "," £190,626.66 ",03/05/2020
+MAN27565,Canterbury Road,Manchester,North England,"1,407",1," £222,006.98 "," £214,969.36 ",13/08/2020
+ESS52158,Strawberry Lane,Essex,South England,"1,964",0.4," £292,900.14 "," £263,844.45 ",07/05/2020
+LON25814,Clinton Street,London,South England,"7,485",6.2," £1,099,477.49 "," £1,005,147.49 ",16/10/2020
+ESS51573,West Avenue,Essex,South England,"1,219",0.6," £192,930.30 "," £158,067.79 ",07/12/2020
+BRI23423,George Street,Bristol,Midlands,"1,158",0.5," £212,532.16 "," £203,010.72 ",01/01/2020
+MAN53794,2nd Street East,Manchester,North England,"2,896",0.3," £331,103.09 "," £312,031.56 ",08/03/2020
+NEW20731,Church Street South,Newcastle,North England,"2,426",0.8," £400,924.49 "," £325,510.59 ",19/10/2020
+BIR80229,Cooper Street,Birmingham,Midlands,"1,983",0.8," £320,257.20 "," £274,908.78 ",17/03/2020
+LIV68152,Circle Drive,Liverpool,Midlands,"1,019",0.4," £151,545.61 "," £144,726.06 ",17/08/2020
+ESS46150,5th Street North,Essex,South England,"2,475",0.6," £366,559.18 "," £299,222.26 ",11/10/2020
+LON17395,Old York Road,London,South England,"1,409",0.1," £804,933.77 "," £719,641.77 ",28/10/2020
+BIR33784,Holly Court,Birmingham,Midlands,"2,693",0.1," £331,282.14 "," £274,831.66 ",09/01/2023
+BRI23678,Crescent Street,Bristol,Midlands,"2,234",0.2," £235,735.01 "," £201,482.71 ",18/10/2020
+MAN65180,Summit Street,Manchester,North England,"1,046",3," £311,965.71 "," £286,914.87 ",19/04/2020
+BRI35759,Hawthorne Avenue,Bristol,Midlands,"1,444",19.9," £1,355,739.21 "," £1,151,971.61 ",23/10/2020
+ESS49771,North Street,Essex,South England,"2,944",0.4," £426,052.20 "," £384,810.35 ",21/02/2020
+BRI49572,Arch Street,Bristol,Midlands,"2,563",0.7," £321,969.92 "," £263,950.94 ",13/11/2020
+ESS19128,Parker Street,Essex,South England,"2,522",0.2," £311,145.12 "," £255,947.98 ",16/03/2020
+BRI66060,Cherry Street,Bristol,Midlands,"3,770",0.3," £498,865.01 "," £449,876.47 ",23/05/2020
+NEW63397,John Street,Newcastle,North England,"1,771",0.6," £302,289.44 "," £265,077.61 ",16/05/2020
+MAN42841,Ivy Court,Manchester,North England,"2,914",11.4," £1,300,814.56 "," £1,179,188.39 ",08/03/2020
+BIR31382,Green Street,Birmingham,Midlands,"2,152",0.2," £319,177.44 "," £309,634.03 ",23/05/2020
+LON88320,Oxford Road,London,South England,"2,054",0.9," £793,308.88 "," £694,551.88 ",22/04/2020
+LON84839,Euclid Avenue,London,South England,"2,186",0.3," £740,193.16 "," £683,521.16 ",31/01/2021
+ESS46451,York Road,Essex,South England,"2,569",0.8," £358,786.73 "," £322,441.64 ",08/01/2020
+NEW24513,Cedar Street,Newcastle,North England,"1,835",0.2," £201,286.42 "," £179,789.03 ",28/03/2020
+LON64858,4th Street South,London,South England,"2,260",0.5," £869,956.85 "," £810,303.85 ",28/11/2020
+NEW98425,8th Avenue,Newcastle,North England,"1,990",0.7," £255,502.98 "," £230,744.74 ",04/03/2020
+BIR27209,Jones Street,Birmingham,Midlands,"1,871",0.3," £289,159.33 "," £253,563.82 ",07/09/2020
+MAN94853,Surrey Lane,Manchester,North England,"1,787",0.5," £298,126.79 "," £252,453.77 ",02/07/2024
+LON14459,12th Street East,London,South England,"1,003",0.6," £637,252.50 "," £563,250.50 ",07/10/2020
+BIR16960,Rosewood Drive,Birmingham,Midlands,"2,639",0.6," £357,033.15 "," £337,289.22 ",18/04/2022
+MAN48099,Locust Lane,Manchester,North England,"1,615",0.5," £200,988.96 "," £169,011.62 ",01/10/2020
+ESS27260,Park Street,Essex,South England,"2,372",0.4," £369,378.35 "," £356,523.98 ",29/05/2020
+BIR70793,Ridge Road,Birmingham,Midlands,"1,621",27.9," £2,445,852.30 "," £2,192,217.42 ",27/11/2020
+NEW27238,Oxford Court,Newcastle,North England,"2,754",0.3," £345,803.04 "," £325,919.37 ",31/01/2020
+BIR61607,School Street,Birmingham,Midlands,"1,463",1," £260,573.37 "," £246,762.98 ",07/07/2020
+NEW71952,Hillside Drive,Newcastle,North England,"8,009",25.9," £2,989,060.47 "," £2,541,897.02 ",06/11/2020
+LON73519,Union Street,London,South England,"2,756",0.5," £834,796.04 "," £749,385.04 ",16/10/2020
+LON40281,Laurel Street,London,South England,"2,139",0.2," £735,844.04 "," £672,734.04 ",22/06/2020
+LON39034,Grove Avenue,London,South England,"2,800",0.5," £954,562.43 "," £855,543.43 ",05/08/2020
+LON41019,Inverness Drive,London,South England,"9,016",0.3," £970,620.80 "," £900,393.80 ",17/04/2020
+LON69409,White Street,London,South England,"2,466",0.2," £887,808.05 "," £810,912.05 ",27/02/2020
+BRI70723,Fulton Street,Bristol,Midlands,"2,131",0.2," £328,867.33 "," £303,149.90 ",06/04/2024
+BRI37113,Fairview Road,Bristol,Midlands,"1,494",1," £276,696.01 "," £225,064.53 ",11/07/2022
+REA57215,Victoria Court,Reading,South England,"2,236",0.4," £325,551.40 "," £293,159.04 ",07/10/2020
+LON50609,3rd Street North,London,South England,"1,738",0.3," £738,996.23 "," £662,737.23 ",04/03/2020
+MAN55185,Grant Street,Manchester,North England,"1,916",0.9," £354,041.97 "," £345,792.79 ",25/02/2020
+NEW20778,Hillcrest Avenue,Newcastle,North England,"1,928",0.2," £273,503.40 "," £235,623.18 ",25/09/2020
+MID74740,Howard Street,Middlesborough,North England,"4,825",0.4," £528,084.74 "," £492,227.78 ",06/10/2020
+BIR34556,Essex Court,Birmingham,Midlands,"1,768",15.5," £1,285,035.17 "," £1,047,046.66 ",25/06/2020
+BRI61326,Willow Street,Bristol,Midlands,"1,872",9.4," £712,019.04 "," £706,251.69 ",28/03/2020
+BRI61476,Route 11,Bristol,Midlands,"1,511",0.2," £231,620.44 "," £224,833.96 ",13/01/2020
+LON94064,Route 41,London,South England,"1,326",0.9," £765,226.07 "," £680,539.07 ",03/09/2020
+NEW36552,Mechanic Street,Newcastle,North England,"2,642",0.2," £330,022.43 "," £302,003.53 ",31/07/2020
+MID85231,4th Street North,Middlesborough,North England,"1,989",0.4," £284,424.97 "," £263,661.95 ",27/09/2020
+MAN93489,5th Street West,Manchester,North England,"1,277",0.4," £218,169.88 "," £188,106.07 ",13/11/2020
+BRI91208,Hillside Avenue,Bristol,Midlands,"2,271",12.9," £961,740.81 "," £930,676.58 ",02/10/2020
+BIR69135,Hamilton Street,Birmingham,Midlands,"1,086",0.2," £133,570.94 "," £133,477.44 ",30/06/2020
+MAN44090,Overlook Circle,Manchester,North England,"1,927",0.2," £303,579.32 "," £257,678.13 ",19/09/2020
+BIR23090,Buttonwood Drive,Birmingham,Midlands,"1,955",0.4," £322,662.41 "," £266,422.35 ",13/06/2020
+LON79433,College Avenue,London,South England,"1,487",0.2," £680,459.62 "," £623,209.62 ",12/11/2020
+LIV39849,Lawrence Street,Liverpool,Midlands,"2,947",0.8," £346,366.63 "," £325,099.72 ",04/12/2020
+ESS30113,Spruce Street,Essex,South England,"2,596",0.8," £390,106.95 "," £374,697.73 ",01/04/2020
+BIR23495,Route 9,Birmingham,Midlands,"3,460",0.5," £403,313.79 "," £381,776.83 ",18/03/2020
+LON42450,Cherry Lane,London,South England,"1,683",0.8," £755,220.01 "," £661,552.01 ",25/03/2020
+ESS82306,Queen Street,Essex,South England,"5,308",0.2," £664,379.43 "," £556,617.09 ",24/12/2020
+LIV74685,Adams Avenue,Liverpool,Midlands,"9,721",0.3," £1,249,495.64 "," £1,237,000.69 ",21/03/2020
+MAN53617,Schoolhouse Lane,Manchester,North England,"1,649",0.8," £220,523.63 "," £208,350.72 ",14/01/2023
+BIR12812,Redwood Drive,Birmingham,Midlands,"1,269",0.9," £257,447.61 "," £243,699.91 ",26/01/2021
+ESS86120,Route 1,Essex,South England,"6,900",0.9," £836,117.80 "," £752,756.86 ",15/03/2020
+LIV96687,Park Drive,Liverpool,Midlands,"2,264",0.5," £287,864.80 "," £279,545.51 ",13/02/2020
+LON75237,Franklin Street,London,South England,"1,376",0.4," £699,845.65 "," £618,110.65 ",07/06/2020
+BIR15837,Riverside Drive,Birmingham,Midlands,"2,844",0.8," £343,556.27 "," £330,226.29 ",18/11/2020
+BIR56873,Heritage Drive,Birmingham,Midlands,"7,079",0.6," £990,964.86 "," £939,335.59 ",29/09/2020
+BIR22385,Lincoln Street,Birmingham,Midlands,"1,433",1," £195,669.17 "," £160,937.89 ",17/03/2020
+LON69372,Maple Street,London,South England,"1,958",0.3," £730,562.64 "," £654,173.64 ",29/06/2020
+NEW61945,Highland Drive,Newcastle,North England,"2,277",0.5," £285,692.42 "," £242,238.61 ",02/08/2020
+LON64418,5th Street East,London,South England,"2,255",0.4," £756,827.59 "," £682,380.59 ",18/06/2020
+MAN25321,Walnut Avenue,Manchester,North England,"2,613",0.4," £316,535.81 "," £310,679.90 ",10/10/2020
+BRI46248,Chestnut Avenue,Bristol,Midlands,"2,131",0.5," £325,147.85 "," £305,086.23 ",11/02/2020
+REA25432,Cedar Avenue,Reading,South England,"3,740",0.7," £486,282.48 "," £428,706.63 ",27/01/2020
+BIR24468,Devon Court,Birmingham,Midlands,"2,499",0.3," £322,088.79 "," £268,622.05 ",30/06/2020
+ESS86244,B Street,Essex,South England,"1,503",0.4," £223,771.80 "," £200,633.80 ",23/05/2020
+LON13848,Laurel Drive,London,South England,"2,560",0.9," £940,914.00 "," £883,035.00 ",14/12/2020
+BIR97745,Route 64,Birmingham,Midlands,"7,622",0.8," £855,906.95 "," £720,673.65 ",08/01/2020
+BRI66710,Church Road,Bristol,Midlands,"1,786",0.9," £327,877.41 "," £267,449.60 ",15/12/2020
+LIV41724,Market Street,Liverpool,Midlands,"1,621",0.2," £231,073.64 "," £219,519.96 ",20/09/2020
+LIV64645,Route 100,Liverpool,Midlands,"2,770",0.1," £321,416.10 "," £316,723.42 ",07/05/2020
+ESS35929,Central Avenue,Essex,South England,"2,029",0.7," £328,416.69 "," £299,647.38 ",12/03/2020
+BIR26928,Front Street North,Birmingham,Midlands,"2,305",0.7," £272,389.87 "," £260,214.04 ",18/12/2020
+MID68223,Oak Avenue,Middlesborough,North England,"5,712",0.9," £717,527.25 "," £678,637.28 ",11/09/2020
+LON59570,Court Street,London,South England,"2,183",0.4," £756,846.10 "," £679,896.10 ",03/08/2020
+LIV11793,12th Street,Liverpool,Midlands,"1,683",5.1," £565,663.99 "," £528,613.00 ",08/05/2020
+MAN45626,Sycamore Lane,Manchester,North England,"2,513",0.4," £318,506.22 "," £309,396.94 ",08/06/2020
+BRI59942,Canterbury Court,Bristol,Midlands,"4,624",0.9," £521,742.12 "," £513,915.99 ",25/06/2020
+MID27413,Locust Street,Middlesborough,North England,"1,178",0.2," £133,626.43 "," £128,909.42 ",17/09/2020
+NEW31351,Water Street,Newcastle,North England,"2,048",0.1," £284,294.17 "," £284,038.31 ",12/07/2020
+MAN94252,Beechwood Drive,Manchester,North England,"2,804",0.8," £462,126.93 "," £437,218.29 ",25/08/2020
+ESS41634,Route 30,Essex,South England,"1,064",0.9," £200,696.43 "," £182,894.65 ",14/05/2020
+NEW42250,Adams Street,Newcastle,North England,"9,171",0.7," £1,160,020.44 "," £1,152,248.30 ",27/02/2020
+LON93706,Columbia Street,London,South England,"1,233",0.5," £725,934.78 "," £649,846.78 ",16/02/2020
+BRI75208,Henry Street,Bristol,Midlands,"1,942",0.7," £276,947.83 "," £237,316.59 ",08/11/2020
+LON46840,Chestnut Street,London,South England,"2,639",0.6," £797,598.49 "," £745,685.49 ",15/12/2020
+LIV69025,Brandywine Drive,Liverpool,Midlands,"6,296",0.6," £816,419.73 "," £782,619.96 ",25/12/2020
+LIV91394,Hill Street,Liverpool,Midlands,"2,079",0.2," £235,810.49 "," £233,475.97 ",05/06/2020
+NEW44655,Garfield Avenue,Newcastle,North England,"2,334",0.9," £317,098.22 "," £265,220.95 ",23/01/2019
+NEW19736,Jefferson Street,Newcastle,North England,"1,660",0.4," £216,014.04 "," £187,392.18 ",22/11/2020
+LIV35567,Ridge Avenue,Liverpool,Midlands,"2,328",0.8," £337,766.76 "," £303,145.67 ",15/12/2020
+MAN20295,6th Avenue,Manchester,North England,"1,956",0.9," £357,292.86 "," £344,823.34 ",04/06/2020
+NEW48289,Route 10,Newcastle,North England,"3,877",0.7," £446,526.08 "," £357,220.86 ",07/04/2020
+NEW67077,Creek Road,Newcastle,North England,"2,638",0.5," £361,516.63 "," £337,548.08 ",31/03/2020
+ESS69193,Poplar Street,Essex,South England,"4,611",1," £685,154.16 "," £682,139.48 ",29/11/2020
+LON20196,Lake Street,London,South England,"2,086",0.4," £768,983.41 "," £676,383.41 ",20/10/2020
+BIR55548,Smith Street,Birmingham,Midlands,"1,212",0.6," £164,957.85 "," £155,588.24 ",08/02/2020
+ESS72207,Sunset Avenue,Essex,South England,"2,496",0.3," £288,328.74 "," £286,771.76 ",08/06/2020
+ESS32095,Briarwood Drive,Essex,South England,"1,284",0.8," £194,517.68 "," £165,476.19 ",17/01/2019
+LON17200,2nd Street,London,South England,"2,716",0.3," £873,451.73 "," £796,375.73 ",09/04/2020
+BIR80636,Route 29,Birmingham,Midlands,"2,913",0.6," £445,832.39 "," £359,831.32 ",03/08/2020
+LON50618,Mulberry Street,London,South England,"1,525",0.6," £757,333.83 "," £665,834.83 ",29/04/2020
+LON20927,Sycamore Drive,London,South England,"2,909",1," £901,169.66 "," £812,170.66 ",10/09/2020
+NEW74737,State Street East,Newcastle,North England,"1,712",0.8," £217,485.99 "," £174,815.24 ",29/06/2020
+BIR49400,Route 6,Birmingham,Midlands,"2,136",0.4," £297,511.89 "," £249,344.72 ",03/03/2020
+BIR36133,Valley Drive,Birmingham,Midlands,"2,009",0.9," £353,061.01 "," £314,153.69 ",29/03/2020
+ESS12623,Broad Street West,Essex,South England,"9,167",22.1," £2,618,824.54 "," £2,585,303.59 ",14/12/2020
+LIV91171,Maple Avenue,Liverpool,Midlands,"1,217",0.4," £180,929.83 "," £178,469.18 ",10/02/2020
+MID41802,Spruce Avenue,Middlesborough,North England,"2,361",0.8," £401,164.83 "," £338,101.72 ",19/03/2020
+NEW64735,Cambridge Road,Newcastle,North England,"7,851",0.2," £906,432.35 "," £734,844.70 ",05/01/2024
+NEW19799,Devonshire Drive,Newcastle,North England,"2,948",6," £904,036.58 "," £855,309.01 ",26/02/2020
+LON73184,Warren Avenue,London,South England,"2,785",0.9," £894,648.79 "," £842,366.79 ",27/11/2020
+REA50641,Jefferson Avenue,Reading,South England,"1,393",0.2," £165,255.89 "," £151,737.96 ",11/03/2020
+BIR68745,Cottage Street,Birmingham,Midlands,"6,030",0.4," £863,119.27 "," £753,330.50 ",30/04/2020
+BIR43459,Deerfield Drive,Birmingham,Midlands,"1,388",0.1," £208,464.21 "," £176,006.33 ",16/08/2020
+BRI46578,Front Street South,Bristol,Midlands,"2,348",0.8," £393,766.13 "," £343,600.33 ",02/07/2020
+LON21883,Woodland Avenue,London,South England,"1,002",0.2," £654,313.25 "," £574,176.25 ",18/10/2020
+BRI46187,Evergreen Lane,Bristol,Midlands,"2,309",0.2," £286,662.81 "," £239,564.11 ",27/09/2020
+ESS75670,Race Street,Essex,South England,"7,724",27.4," £3,230,046.18 "," £3,194,515.68 ",27/08/2020
+BIR10920,Lafayette Avenue,Birmingham,Midlands,"1,531",23.5," £1,507,731.75 "," £1,295,895.44 ",10/05/2020
+BIR25815,Main Street West,Birmingham,Midlands,"2,939",0.3," £347,064.22 "," £281,017.90 ",19/02/2020
+BRI84924,Route 17,Bristol,Midlands,"2,722",0.7," £358,673.26 "," £347,877.20 ",31/03/2020
+BIR97702,Berkshire Drive,Birmingham,Midlands,"2,118",0.8," £273,888.01 "," £222,314.90 ",21/01/2020
+BIR53779,Valley View Road,Birmingham,Midlands,"1,828",0.9," £271,121.27 "," £218,876.20 ",03/01/2020
+NEW64320,Ridge Street,Newcastle,North England,"1,221",0.6," £177,350.90 "," £149,187.58 ",15/06/2020
+MID85126,Glenwood Avenue,Middlesborough,North England,"2,354",0.3," £368,914.87 "," £316,160.04 ",26/03/2020
+NEW55054,Linda Lane,Newcastle,North England,"1,562",0.4," £189,424.22 "," £158,055.57 ",23/11/2020
+LIV62114,Durham Road,Liverpool,Midlands,"1,381",0.2," £204,283.50 "," £188,962.24 ",24/02/2020
+LON13311,Eagle Street,London,South England,"1,835",17.5," £1,345,722.06 "," £1,249,576.06 ",09/01/2020
+LON73566,Homestead Drive,London,South England,"1,362",0.7," £707,895.91 "," £651,915.91 ",11/09/2020
+ESS48914,11th Street,Essex,South England,"1,097",0.8," £187,603.29 "," £182,969.49 ",01/02/2020
+BRI10805,Penn Street,Bristol,Midlands,"2,960",0.8," £504,637.10 "," £488,488.71 ",26/09/2020
+ESS39987,Arlington Avenue,Essex,South England,"2,424",0.6," £295,711.41 "," £280,925.84 ",13/02/2020
+ESS22282,Route 202,Essex,South England,"1,032",0.3," £145,258.49 "," £123,426.14 ",15/10/2020
+REA70048,Rose Street,Reading,South England,"4,747",0.2," £697,431.53 "," £672,602.97 ",23/05/2020
+BRI48055,Wood Street,Bristol,Midlands,"1,553",0.3," £208,349.12 "," £181,680.43 ",22/12/2020
+ESS94791,Railroad Street,Essex,South England,"2,821",3.9," £666,643.94 "," £541,914.86 ",30/08/2020
+NEW35109,Windsor Drive,Newcastle,North England,"2,401",0.8," £343,779.36 "," £322,190.02 ",04/05/2020
+BRI67061,Vine Street,Bristol,Midlands,"1,917",0.2," £254,652.95 "," £225,011.34 ",20/12/2020
+BIR49012,Forest Drive,Birmingham,Midlands,"2,830",0.5," £427,073.74 "," £380,608.11 ",04/07/2020
+NEW63165,Andover Court,Newcastle,North England,"2,065",0.3," £322,956.23 "," £301,705.71 ",04/11/2020
+BIR45085,Manor Drive,Birmingham,Midlands,"2,604",0.3," £322,607.67 "," £321,994.72 ",24/03/2020
+BIR22047,Clark Street,Birmingham,Midlands,"2,646",19," £1,280,646.23 "," £1,038,091.83 ",24/02/2020
+MAN17851,7th Street,Manchester,North England,"1,698",0.5," £291,499.71 "," £253,342.40 ",31/05/2020
+LIV49146,Myrtle Street,Liverpool,Midlands,"2,368",0.8," £407,446.84 "," £373,954.71 ",01/11/2020
+BRI37626,Morris Street,Bristol,Midlands,"1,609",0.4," £196,072.83 "," £190,229.86 ",11/10/2020
+ESS92838,Oak Lane,Essex,South England,"1,876",0.7," £248,723.15 "," £208,504.62 ",05/11/2020
+BRI27804,Summer Street,Bristol,Midlands,"1,788",27.2," £1,838,121.75 "," £1,791,433.46 ",18/06/2020
+ESS94268,Elmwood Avenue,Essex,South England,"9,134",0.8," £1,032,935.66 "," £842,668.91 ",22/10/2020
+LIV39625,Willow Lane,Liverpool,Midlands,"2,668",21.1," £1,429,285.07 "," £1,174,443.54 ",18/07/2020
+BRI65036,Linden Street,Bristol,Midlands,"1,538",0.7," £265,749.90 "," £259,690.80 ",23/05/2020
+BRI18573,River Road,Bristol,Midlands,"2,846",0.6," £369,592.69 "," £334,296.58 ",10/12/2020
+BIR39064,Lakeview Drive,Birmingham,Midlands,"1,286",0.9," £250,257.17 "," £208,314.07 ",14/07/2022
+MID32501,Forest Avenue,Middlesborough,North England,"1,552",0.9," £218,128.57 "," £177,185.83 ",17/02/2020
+LON84295,Hilltop Road,London,South England,"1,855",0.9," £818,844.47 "," £736,532.47 ",17/02/2020
+LIV60596,5th Avenue,Liverpool,Midlands,"4,287",0.7," £608,535.60 "," £555,836.42 ",17/12/2020
+NEW75418,Myrtle Avenue,Newcastle,North England,"6,239",0.8," £765,035.99 "," £737,724.20 ",08/10/2020
+BRI13359,Main Street South,Bristol,Midlands,"1,572",0.2," £186,690.82 "," £185,682.69 ",24/08/2020
+BRI32882,Charles Street,Bristol,Midlands,"2,966",0.2," £314,982.56 "," £314,699.07 ",20/08/2020
+LIV88860,Grant Avenue,Liverpool,Midlands,"1,604",0.4," £204,987.35 "," £169,381.05 ",27/07/2020
+MAN30365,Washington Avenue,Manchester,North England,"9,653",5.7," £1,368,661.29 "," £1,169,794.80 ",08/12/2020
+LON46687,Beech Street,London,South England,"1,658",0.8," £741,664.27 "," £655,429.27 ",24/03/2020
+BRI34483,Maple Lane,Bristol,Midlands,"1,246",0.6," £221,666.82 "," £219,782.65 ",06/04/2020
+REA50547,Olive Street,Reading,South England,"1,736",0.5," £230,875.26 "," £228,705.03 ",01/06/2020
+NEW69656,Jackson Street,Newcastle,North England,"2,264",0.4," £349,952.04 "," £290,320.21 ",23/02/2020
+LIV50712,5th Street South,Liverpool,Midlands,"1,663",0.7," £238,038.37 "," £221,732.74 ",19/12/2020
+BRI72050,Chapel Street,Bristol,Midlands,"2,758",0.2," £304,143.88 "," £270,779.29 ",16/10/2020
+LON14407,Spring Street,London,South England,"8,957",0.5," £1,167,454.23 "," £1,072,631.23 ",13/09/2020
+LON46816,Tanglewood Drive,London,South England,"1,234",16.9," £1,396,759.97 "," £1,317,954.97 ",29/05/2020
+NEW28284,Jackson Avenue,Newcastle,North England,"6,803",0.6," £956,023.72 "," £866,061.88 ",16/07/2020
+ESS11812,Ivy Lane,Essex,South England,"2,164",0.2," £310,579.23 "," £272,471.16 ",24/08/2020
+LON89706,River Street,London,South England,"7,961",0.2," £1,182,173.56 "," £1,109,399.56 ",27/01/2020
+BRI18799,Willow Avenue,Bristol,Midlands,"2,146",0.5," £299,388.67 "," £258,402.36 ",27/07/2020
+MAN57239,Colonial Avenue,Manchester,North England,"2,509",0.6," £385,719.02 "," £314,283.86 ",09/04/2020
+LIV13487,Bank Street,Liverpool,Midlands,"2,721",1," £386,925.51 "," £346,259.64 ",08/04/2020
+BIR44435,Evergreen Drive,Birmingham,Midlands,"2,374",0.5," £378,778.45 "," £311,621.03 ",24/11/2020
+BRI16715,Cobblestone Court,Bristol,Midlands,"1,196",0.5," £183,226.68 "," £154,716.61 ",17/06/2020
+NEW91352,Fairway Drive,Newcastle,North England,"2,709",0.7," £436,800.61 "," £415,528.42 ",15/02/2020
+REA48158,Winding Way,Reading,South England,"1,699",0.2," £261,720.40 "," £220,499.43 ",21/07/2020
+BIR14866,Amherst Street,Birmingham,Midlands,"1,881",0.7," £315,824.45 "," £266,240.01 ",03/02/2020
+REA59046,Lantern Lane,Reading,South England,"9,450",0.5," £1,085,739.42 "," £991,497.24 ",04/05/2020
+LON15163,Summit Avenue,London,South England,"1,596",0.8," £777,448.91 "," £700,039.91 ",11/02/2020
+BIR64694,Harrison Street,Birmingham,Midlands,"2,240",0.4," £353,427.73 "," £337,488.14 ",25/06/2020
+LIV80788,Route 20,Liverpool,Midlands,"1,490",0.9," £212,858.37 "," £181,248.90 ",27/08/2020
+BIR73054,Pennsylvania Avenue,Birmingham,Midlands,"1,574",0.5," £215,919.60 "," £199,984.73 ",15/03/2020
+ESS26485,Monroe Drive,Essex,South England,"1,412",0.2," £174,295.28 "," £146,408.03 ",29/12/2020
+BRI12147,Virginia Street,Bristol,Midlands,"1,319",0.6," £183,615.38 "," £170,450.15 ",06/12/2020
+ESS12621,Hickory Lane,Essex,South England,"7,238",0.9," £787,635.63 "," £639,638.90 ",31/03/2020
+ESS33271,Williams Street,Essex,South England,"1,559",0.1," £166,559.19 "," £141,042.32 ",09/11/2020
+BIR25315,Academy Street,Birmingham,Midlands,"2,859",0.8," £470,944.88 "," £468,778.53 ",26/05/2020
+BIR93746,Fawn Court,Birmingham,Midlands,"2,925",0.5," £383,238.08 "," £355,338.34 ",28/12/2020
+ESS25825,4th Street West,Essex,South England,"1,335",0.2," £208,911.60 "," £195,353.24 ",01/09/2020
+MAN65260,Grand Avenue,Manchester,North England,"1,600",0.1," £194,438.46 "," £163,522.74 ",06/10/2020
+REA19468,Cambridge Court,Reading,South England,"2,166",1," £294,043.82 "," £257,082.51 ",20/02/2020
+LON22680,Bay Street,London,South England,"1,490",0.2," £727,709.95 "," £635,604.95 ",13/10/2020
+MAN77615,Heather Lane,Manchester,North England,"1,974",0.7," £256,888.16 "," £240,884.03 ",05/02/2020
+BIR89013,Lexington Drive,Birmingham,Midlands,"2,680",0.3," £421,413.66 "," £376,322.40 ",22/09/2020
+REA95149,Route 27,Reading,South England,"2,007",0.8," £330,435.46 "," £296,400.61 ",02/10/2020
+LON70015,Cleveland Street,London,South England,"1,896",0.5," £736,275.25 "," £662,499.25 ",18/03/2020
+LON96366,William Street,London,South England,"2,848",0.1," £846,881.77 "," £789,364.77 ",26/02/2020
+LIV65047,Briarwood Court,Liverpool,Midlands,"1,908",0.2," £252,421.73 "," £216,779.78 ",18/09/2020
+NEW41802,Clay Street,Newcastle,North England,"2,861",0.5," £464,162.83 "," £374,904.32 ",25/04/2020
+NEW31279,Pheasant Run,Newcastle,North England,"2,476",16.8," £1,535,212.56 "," £1,293,416.58 ",10/09/2020
+LON33018,Ann Street,London,South England,"2,445",0.7," £896,833.87 "," £841,982.87 ",11/02/2020
+ESS21619,6th Street North,Essex,South England,"1,085",24.8," £1,875,249.64 "," £1,771,173.29 ",03/12/2020
+BIR49409,Hanover Court,Birmingham,Midlands,"1,941",0.8," £250,041.62 "," £245,490.86 ",02/03/2020
+BIR95059,9th Street,Birmingham,Midlands,"2,094",0.9," £299,612.83 "," £276,872.22 ",10/11/2020
+LIV81336,Grove Street,Liverpool,Midlands,"1,089",0.5," £154,678.44 "," £142,984.75 ",04/04/2020
+MAN45233,8th Street West,Manchester,North England,"7,935",0.6," £1,085,728.58 "," £935,029.45 ",21/12/2020
+ESS67783,Franklin Avenue,Essex,South England,"1,480",0.7," £249,956.80 "," £221,511.72 ",02/11/2020
+LON97292,Mill Road,London,South England,"2,789",0.5," £912,311.85 "," £856,824.85 ",11/11/2020
+ESS86026,Walnut Street,Essex,South England,"9,984",0.3," £1,321,273.80 "," £1,213,457.86 ",26/07/2020
+MID30019,Roosevelt Avenue,Middlesborough,North England,"2,550",0.7," £417,329.38 "," £360,739.52 ",25/09/2020
+LON61321,Route 7,London,South England,"1,188",0.5," £673,610.60 "," £599,253.60 ",08/08/2022
+BRI62098,Woodland Drive,Bristol,Midlands,"2,904",0.6," £383,684.19 "," £374,514.13 ",27/02/2020
+LON81684,Center Street,London,South England,"9,013",0.3," £1,235,576.06 "," £1,169,939.06 ",17/05/2020
+REA15118,10th Street,Reading,South England,"2,132",0.1," £237,683.81 "," £193,569.69 ",20/05/2020
+BIR88608,Brown Street,Birmingham,Midlands,"2,959",0.1," £446,237.46 "," £430,262.16 ",06/04/2020
+BIR55540,4th Avenue,Birmingham,Midlands,"2,846",0.7," £450,558.99 "," £441,637.93 ",11/02/2020
+ESS84915,Maiden Lane,Essex,South England,"1,043",26.5," £1,969,044.40 "," £1,831,605.10 ",29/12/2020
+MID76870,Orchard Street,Middlesborough,North England,"2,667",0.3," £409,577.51 "," £332,781.73 ",20/09/2020
+ESS17332,Brook Lane,Essex,South England,"2,293",0.7," £285,252.99 "," £254,930.59 ",21/11/2020
+BIR31505,Valley View Drive,Birmingham,Midlands,"1,258",0.9," £251,088.04 "," £230,398.39 ",06/07/2021
+LON23652,Country Lane,London,South England,"2,527",0.7," £907,652.01 "," £841,257.01 ",12/07/2024
+BRI55442,Fieldstone Drive,Bristol,Midlands,"2,386",0.9," £380,467.91 "," £361,748.89 ",25/04/2020
+LON44706,Creekside Drive,London,South England,"3,352",0.4," £945,253.97 "," £848,715.97 ",01/08/2020
+REA49415,3rd Street West,Reading,South England,"2,495",0.8," £380,111.59 "," £364,641.05 ",30/05/2020
+MID23042,Madison Court,Middlesborough,North England,"1,510",0.8," £268,832.60 "," £261,520.35 ",20/06/2020
+NEW51889,High Street,Newcastle,North England,"2,783",0.9," £455,360.67 "," £368,705.54 ",25/02/2020
+BIR38399,Windsor Court,Birmingham,Midlands,"2,009",1," £306,691.59 "," £297,797.53 ",29/10/2020
+NEW92453,4th Street,Newcastle,North England,"1,921",0.5," £233,543.20 "," £210,329.00 ",04/12/2020
+BIR69285,8th Street South,Birmingham,Midlands,"2,543",0.3," £396,236.05 "," £335,493.06 ",08/05/2020
+NEW69363,Prospect Avenue,Newcastle,North England,"1,589",0.6," £210,536.46 "," £190,767.09 ",02/05/2020
+REA85385,1st Avenue,Reading,South England,"2,276",0.6," £317,699.23 "," £300,607.01 ",05/02/2020
+BIR93042,Holly Drive,Birmingham,Midlands,"1,646",0.8," £279,485.55 "," £235,857.86 ",14/06/2020
+BIR60100,Hillcrest Drive,Birmingham,Midlands,"1,966",3.3," £513,529.29 "," £509,215.65 ",26/02/2020
+LON25722,Bridle Lane,London,South England,"1,256",0.6," £710,575.58 "," £640,551.58 ",21/03/2020
+BRI38142,Church Street North,Bristol,Midlands,"2,529",0.5," £337,461.18 "," £310,329.30 ",27/07/2021
+BIR61809,Cemetery Road,Birmingham,Midlands,"2,291",0.6," £276,062.58 "," £229,932.52 ",26/06/2020
+BRI30526,Sunset Drive,Bristol,Midlands,"2,964",0.6," £471,335.10 "," £469,826.83 ",07/11/2020
+LON48382,14th Street,London,South England,"1,130",0.7," £722,456.08 "," £651,389.08 ",19/06/2020
+NEW26479,Hickory Street,Newcastle,North England,"1,102",0.9," £233,735.17 "," £221,954.92 ",25/03/2020
+BRI13489,Wall Street,Bristol,Midlands,"2,824",0.4," £445,828.00 "," £414,397.13 ",08/10/2020
+ESS27006,Hamilton Road,Essex,South England,"5,834",0.5," £644,451.40 "," £574,141.75 ",22/07/2024
+LON18926,East Avenue,London,South England,"1,716",0.2," £723,363.52 "," £641,285.52 ",30/10/2020
+BRI41348,Augusta Drive,Bristol,Midlands,"1,467",0.5," £173,046.67 "," £162,317.77 ",14/03/2020
+ESS31251,Railroad Avenue,Essex,South England,"4,153",0.7," £479,161.36 "," £402,783.04 ",28/03/2020
+MID78086,Devon Road,Middlesborough,North England,"1,654",1," £324,757.83 "," £260,845.49 ",14/06/2020
+BIR71182,Division Street,Birmingham,Midlands,"1,108",8.6," £843,225.68 "," £794,740.20 ",01/03/2020
+ESS10698,Dogwood Drive,Essex,South England,"1,613",0.6," £254,904.55 "," £210,704.10 ",10/03/2020
+BIR46745,Main Street,Birmingham,Midlands,"1,639",0.6," £251,176.45 "," £217,543.92 ",19/07/2020
+ESS64054,Woodland Road,Essex,South England,"1,907",0.7," £253,741.65 "," £219,740.27 ",03/02/2020
+BIR48567,Canterbury Drive,Birmingham,Midlands,"1,935",0.5," £295,969.76 "," £252,166.24 ",27/10/2020
+MID16131,Pin Oak Drive,Middlesborough,North England,"2,966",0.5," £402,191.17 "," £329,917.42 ",05/01/2020
+BIR51119,Pine Street,Birmingham,Midlands,"2,459",0.5," £316,996.84 "," £264,819.16 ",15/06/2020
+LIV11871,College Street,Liverpool,Midlands,"5,097",24.9," £2,399,134.99 "," £2,115,317.32 ",27/10/2020
+REA49196,Magnolia Avenue,Reading,South England,"1,083",0.2," £128,644.63 "," £121,144.65 ",02/07/2022
+NEW20394,Harrison Avenue,Newcastle,North England,"9,213",0.6," £1,190,175.44 "," £1,078,179.93 ",21/08/2020
+NEW41448,2nd Street West,Newcastle,North England,"2,830",25.7," £2,220,934.00 "," £1,916,221.86 ",04/04/2020
+NEW57486,Broadway,Newcastle,North England,"1,938",0.3," £229,691.88 "," £202,611.21 ",28/03/2020
+BIR88131,Elm Avenue,Birmingham,Midlands,"4,549",1," £581,397.92 "," £544,595.43 ",12/05/2020
+BIR37928,Brookside Drive,Birmingham,Midlands,"1,955",0.3," £239,657.17 "," £216,458.35 ",24/01/2020
+BIR49849,Bayberry Drive,Birmingham,Midlands,"2,781",0.6," £415,711.19 "," £345,040.29 ",27/10/2020
+BIR43571,Valley Road,Birmingham,Midlands,"5,479",0.6," £829,267.99 "," £734,068.02 ",24/04/2024
+LIV82013,Lincoln Avenue,Liverpool,Midlands,"1,979",0.4," £261,695.48 "," £228,303.14 ",26/06/2020
+LIV18445,2nd Avenue,Liverpool,Midlands,"2,623",0.2," £304,732.00 "," £270,602.02 ",06/07/2020
+NEW59959,Laurel Lane,Newcastle,North England,"1,362",0.3," £199,406.74 "," £159,744.74 ",05/04/2020
+BIR61270,Cedar Lane,Birmingham,Midlands,"2,336",0.7," £362,868.32 "," £331,625.36 ",21/02/2020
+BRI78211,Belmont Avenue,Bristol,Midlands,"1,145",0.6," £215,921.19 "," £200,310.09 ",26/02/2020
+MAN41699,3rd Street,Manchester,North England,"4,662",0.3," £611,098.85 "," £593,926.97 ",11/09/2020
+MAN98355,Hawthorne Lane,Manchester,North England,"2,735",0.6," £412,825.32 "," £390,367.62 ",03/10/2020
+BIR87356,Colonial Drive,Birmingham,Midlands,"5,104",0.9," £762,879.46 "," £629,528.13 ",25/01/2020
+BIR53140,Madison Avenue,Birmingham,Midlands,"2,338",0.5," £367,515.85 "," £347,559.74 ",13/07/2020
+LON62049,Depot Street,London,South England,"2,790",0.7," £975,351.03 "," £891,106.03 ",30/07/2020
+MAN29498,Sherman Street,Manchester,North England,"2,703",0.6," £302,235.93 "," £269,382.89 ",12/09/2020
+MAN51413,Route 70,Manchester,North England,"1,409",0.5," £221,981.31 "," £204,355.99 ",19/03/2020
+BRI50594,Cleveland Avenue,Bristol,Midlands,"6,535",12.5," £1,522,708.79 "," £1,241,769.02 ",07/09/2020
+MAN84524,Route 44,Manchester,North England,"7,833",0.5," £1,093,511.16 "," £901,381.25 ",23/03/2020
+BIR77135,Aspen Drive,Birmingham,Midlands,"1,674",0.2," £224,093.66 "," £223,645.47 ",19/07/2020
+BIR35299,Cambridge Drive,Birmingham,Midlands,"3,874",0.7," £459,459.88 "," £444,022.03 ",07/12/2020
+LON49838,James Street,London,South England,"1,906",0.1," £752,924.95 "," £688,282.95 ",09/08/2020
+LON96606,13th Street,London,South England,"1,938",0.8," £816,200.39 "," £753,835.39 ",24/03/2020
+LON71528,Carriage Drive,London,South England,"1,753",0.9," £798,600.33 "," £717,796.33 ",30/01/2020
+BIR92654,West Street,Birmingham,Midlands,"1,129",0.4," £191,586.74 "," £172,064.05 ",20/12/2020
+NEW35745,State Street,Newcastle,North England,"2,049",0.2," £259,958.26 "," £230,037.06 ",27/01/2020
+LIV67861,Main Street East,Liverpool,Midlands,"2,918",0.6," £482,972.92 "," £423,905.33 ",11/08/2020
+NEW25438,Magnolia Drive,Newcastle,North England,"1,455",0.1," £190,822.81 "," £162,123.06 ",18/02/2020
+BRI88576,Magnolia Court,Bristol,Midlands,"2,044",0.4," £331,100.56 "," £270,774.04 ",22/12/2020
+NEW82615,Cross Street,Newcastle,North England,"2,319",0.4," £276,184.06 "," £228,514.69 ",25/02/2020
+MAN29294,Prospect Street,Manchester,North England,"8,357",0.5," £1,070,461.78 "," £923,915.56 ",10/06/2020
+BIR17263,Meadow Lane,Birmingham,Midlands,"2,893",0.5," £457,568.29 "," £387,377.31 ",22/07/2020
+MID41576,Orchard Avenue,Middlesborough,North England,"1,901",0.7," £312,357.39 "," £283,589.28 ",31/07/2020
+MID64164,Front Street,Middlesborough,North England,"2,993",14.5," £1,575,643.55 "," £1,534,361.69 ",20/08/2020
+BIR28180,Hudson Street,Birmingham,Midlands,"1,953",11.7," £1,193,743.69 "," £1,049,897.58 ",13/06/2020
+BIR23045,Orchard Lane,Birmingham,Midlands,"2,372",0.7," £322,417.97 "," £266,800.87 ",18/12/2020
+BIR45743,Washington Street,Birmingham,Midlands,"1,573",0.3," £177,166.47 "," £156,012.79 ",21/03/2020
+NEW57049,Meadow Street,Newcastle,North England,"5,529",0.3," £683,211.96 "," £640,716.17 ",10/07/2020
+BRI43416,Edgewood Drive,Bristol,Midlands,"1,619",0.4," £188,631.05 "," £179,652.21 ",26/07/2020
+ESS38693,Eagle Road,Essex,South England,"2,388",0.2," £322,249.74 "," £258,734.32 ",09/12/2020
+MAN23576,Route 5,Manchester,North England,"2,418",0.8," £361,016.73 "," £338,128.26 ",07/10/2020
+REA29530,5th Street,Reading,South England,"1,392",0.9," £220,041.11 "," £214,760.12 ",08/05/2020
+REA84854,Buckingham Drive,Reading,South England,"1,691",0.8," £223,519.67 "," £188,650.60 ",19/09/2020
+ESS27427,Mulberry Lane,Essex,South England,"4,592",0.7," £689,832.96 "," £584,288.52 ",02/11/2020
+BRI11538,New Street,Bristol,Midlands,"2,816",0.4," £359,337.43 "," £352,078.82 ",10/09/2020
+LON84308,Park Place,London,South England,"1,363",0.4," £730,070.07 "," £662,994.07 ",24/10/2020
+NEW62198,Westminster Drive,Newcastle,North England,"2,889",0.9," £341,691.44 "," £303,011.97 ",21/11/2020
+ESS39865,Orange Street,Essex,South England,"1,075",1," £193,402.18 "," £191,294.09 ",18/04/2020
+NEW52969,Lilac Lane,Newcastle,North England,"2,826",0.5," £373,438.92 "," £318,954.18 ",29/11/2020
+REA26514,King Street,Reading,South England,"2,113",0.8," £348,037.19 "," £282,606.20 ",10/09/2020
+BIR84183,Monroe Street,Birmingham,Midlands,"1,113",0.4," £153,698.32 "," £133,041.26 ",04/05/2020
+LON42796,Fairview Avenue,London,South England,"2,059",0.7," £824,923.97 "," £733,081.97 ",12/11/2020
+BIR23251,2nd Street North,Birmingham,Midlands,"2,587",0.4," £300,352.25 "," £270,347.06 ",02/06/2020
+MAN32176,Route 2,Manchester,North England,"8,773",0.6," £1,146,214.18 "," £1,029,185.71 ",21/08/2020
+BRI29950,South Street,Bristol,Midlands,"1,253",0.7," £221,948.16 "," £208,542.49 ",23/06/2020
+BRI11514,Shady Lane,Bristol,Midlands,"7,878",0.4," £884,419.06 "," £799,337.95 ",25/12/2020
+BRI43382,Bridge Street,Bristol,Midlands,"1,668",0.3," £269,879.61 "," £239,680.08 ",23/06/2020
+NEW21033,Country Club Drive,Newcastle,North England,"2,436",0.1," £303,935.99 "," £272,387.43 ",10/12/2020
+LIV38889,Route 4,Liverpool,Midlands,"2,987",0.4," £333,753.23 "," £327,311.79 ",15/04/2020
+MAN53777,Madison Street,Manchester,North England,"2,176",0.3," £267,665.03 "," £220,047.42 ",17/10/2020
+LON88119,Forest Street,London,South England,"1,433",0.4," £708,085.07 "," £635,111.07 ",17/04/2020
+NEW80639,Taylor Street,Newcastle,North England,"1,913",0.4," £312,056.49 "," £258,788.45 ",23/05/2020
+NEW54596,Virginia Avenue,Newcastle,North England,"2,400",0.4," £355,440.64 "," £349,575.87 ",02/04/2020
+BIR49022,Sheffield Drive,Birmingham,Midlands,"1,556",0.8," £270,485.51 "," £245,032.82 ",15/03/2020
+NEW65731,9th Street West,Newcastle,North England,"9,427",0.3," £1,198,255.47 "," £1,065,608.59 ",07/04/2020
+ESS29570,3rd Avenue,Essex,South England,"1,276",0.4," £189,481.19 "," £185,123.12 ",27/11/2020
+BIR21230,North Avenue,Birmingham,Midlands,"2,657",0.3," £322,727.15 "," £303,783.06 ",13/10/2020
+REA59489,Elm Street,Reading,South England,"1,418",0.4," £213,495.75 "," £204,742.43 ",02/07/2020
+LIV46398,Fairview Road,Liverpool,Midlands,"2,163",18.2," £1,635,722.64 "," £1,437,800.20 ",08/02/2020
+MID59780,Laurel Lane,Middlesborough,North England,"3,407",0.7," £508,137.95 "," £426,022.85 ",13/06/2020
+LON34237,Willow Avenue,London,South England,"2,048",0.2," £809,799.53 "," £742,590.53 ",11/01/2020
+BIR83270,Prospect Street,Birmingham,Midlands,"2,752",0.5," £314,060.27 "," £297,917.57 ",05/02/2020
+NEW74563,River Road,Newcastle,North England,"1,186",0.3," £137,118.94 "," £128,713.55 ",27/10/2020
+LIV79857,Laurel Street,Liverpool,Midlands,"1,439",0.2," £200,556.19 "," £166,782.52 ",09/05/2020
+BIR15715,Court Street,Birmingham,Midlands,"2,957",0.2," £334,876.81 "," £311,334.97 ",19/01/2020
+NEW83889,Lincoln Street,Newcastle,North England,"1,605",0.5," £187,662.58 "," £151,931.62 ",09/11/2020
+BRI37628,James Street,Bristol,Midlands,"1,352",0.4," £187,084.40 "," £159,582.99 ",11/01/2020
+MAN47412,Ann Street,Manchester,North England,"2,108",0.4," £306,855.27 "," £283,380.84 ",22/02/2020
+NEW44910,Park Place,Newcastle,North England,"6,162",1," £881,692.87 "," £864,852.53 ",11/04/2020
+LON39820,3rd Street West,London,South England,"1,989",0.6," £734,882.00 "," £638,179.00 ",03/05/2020
+BIR73236,John Street,Birmingham,Midlands,"2,791",0.2," £308,935.81 "," £284,498.99 ",11/12/2020
+MID27630,Hillcrest Avenue,Middlesborough,North England,"2,834",0.3," £401,917.31 "," £353,647.04 ",10/02/2020
+ESS43275,Elmwood Avenue,Essex,South England,"1,554",1," £264,567.77 "," £259,382.24 ",07/08/2020
+BRI82118,Devonshire Drive,Bristol,Midlands,"1,629",0.7," £238,765.85 "," £197,196.72 ",23/05/2020
+LON46835,Clinton Street,London,South England,"1,198",0.6," £712,613.65 "," £634,708.65 ",09/05/2020
+ESS19388,3rd Avenue,Essex,South England,"1,195",0.9," £196,993.15 "," £168,704.93 ",07/10/2020
+MAN26294,4th Avenue,Manchester,North England,"4,378",0.2," £658,534.51 "," £559,820.19 ",18/04/2020
+BRI45950,Race Street,Bristol,Midlands,"1,013",0.2," £148,049.97 "," £131,882.91 ",01/10/2020
+ESS26145,Brandywine Drive,Essex,South England,"1,417",0.7," £241,885.67 "," £237,410.78 ",21/09/2020
+BRI94998,Hamilton Road,Bristol,Midlands,"2,889",0.1," £358,705.25 "," £307,087.57 ",23/09/2020
+MAN69006,10th Street,Manchester,North England,"1,099",0.9," £170,097.13 "," £168,617.29 ",21/08/2020
+BRI36518,Briarwood Court,Bristol,Midlands,"9,004",0.6," £1,317,408.64 "," £1,201,081.46 ",11/06/2020
+ESS14291,Magnolia Avenue,Essex,South England,"1,948",1," £295,823.78 "," £291,149.76 ",23/04/2020
+BIR91796,Hillside Avenue,Birmingham,Midlands,"2,338",0.3," £293,858.17 "," £282,221.39 ",09/02/2020
+ESS48435,Pine Street,Essex,South England,"9,545",0.7," £1,440,354.15 "," £1,229,198.24 ",12/12/2020
+BIR50234,Grove Street,Birmingham,Midlands,"2,055",0.3," £285,969.11 "," £264,607.22 ",07/01/2020
+MAN28097,3rd Street East,Manchester,North England,"1,103",0.4," £150,586.98 "," £125,047.42 ",02/11/2020
+LON95708,Willow Drive,London,South England,"1,265",29.7," £1,719,588.99 "," £1,634,885.99 ",24/02/2020
+LON31490,Linden Street,London,South England,"1,029",19," £1,495,327.54 "," £1,419,785.54 ",20/04/2020
+LON50953,Heather Court,London,South England,"2,752",0.6," £839,989.10 "," £747,298.10 ",22/01/2020
+ESS68451,Cemetery Road,Essex,South England,"1,524",0.8," £285,139.05 "," £250,808.31 ",18/03/2020
+MID45536,Route 20,Middlesborough,North England,"2,749",1," £417,063.23 "," £409,973.15 ",03/11/2020
+LIV32178,Front Street North,Liverpool,Midlands,"5,109",12.2," £1,461,821.38 "," £1,351,015.32 ",13/11/2020
+BIR92062,Route 4,Birmingham,Midlands,"2,018",0.7," £241,368.02 "," £201,300.92 ",07/02/2020
+LIV40193,Overlook Circle,Liverpool,Midlands,"4,053",0.4," £493,904.80 "," £452,021.67 ",28/04/2020
+MID93181,Spring Street,Middlesborough,North England,"1,085",0.8," £165,410.62 "," £142,650.12 ",09/01/2020
+ESS78299,Maple Avenue,Essex,South England,"1,716",0.1," £221,081.47 "," £202,068.46 ",27/10/2020
+BIR28704,North Avenue,Birmingham,Midlands,"1,395",0.9," £214,217.87 "," £201,107.74 ",23/09/2020
+LON48773,Route 70,London,South England,"1,562",0.6," £718,095.87 "," £635,636.87 ",25/10/2020
+LIV65419,3rd Street North,Liverpool,Midlands,"2,889",0.7," £488,972.80 "," £407,265.44 ",13/05/2020
+BIR67040,Sherman Street,Birmingham,Midlands,"2,099",19.6," £1,738,520.88 "," £1,492,694.03 ",03/10/2020
+LON17954,Hanover Court,London,South England,"1,610",5.3," £1,016,569.53 "," £933,160.53 ",21/07/2020
+BIR74058,5th Street East,Birmingham,Midlands,"2,195",0.6," £346,649.97 "," £327,826.88 ",30/07/2020
+MID62949,Route 1,Middlesborough,North England,"2,220",0.7," £329,773.93 "," £272,459.22 ",04/08/2020
+ESS90789,Church Street,Essex,South England,"1,999",0.3," £294,402.23 "," £285,658.48 ",30/11/2020
+BIR11055,Park Drive,Birmingham,Midlands,"5,070",0.4," £612,509.63 "," £588,560.51 ",23/04/2020
+ESS51429,Highland Avenue,Essex,South England,"7,803",0.2," £1,112,964.02 "," £1,049,747.67 ",10/07/2020
+BIR81585,Evergreen Lane,Birmingham,Midlands,"2,712",0.5," £326,696.30 "," £300,103.22 ",19/05/2020
+BIR10361,Valley Road,Birmingham,Midlands,"1,318",0.6," £238,451.85 "," £230,821.39 ",17/03/2020
+NEW21225,Woodland Drive,Newcastle,North England,"1,795",0.4," £208,210.77 "," £185,078.55 ",13/05/2020
+BRI10066,Williams Street,Bristol,Midlands,"1,104",1," £205,177.28 "," £183,674.70 ",12/06/2020
+MAN66586,High Street,Manchester,North England,"1,573",0.2," £223,012.30 "," £190,296.40 ",01/08/2020
+BIR74895,Vine Street,Birmingham,Midlands,"2,066",0.9," £321,517.67 "," £258,628.81 ",19/09/2020
+LON23856,Route 202,London,South England,"1,525",0.5," £736,673.71 "," £654,962.71 ",25/10/2020
+MAN40292,Pearl Street,Manchester,North England,"1,166",0.3," £134,901.94 "," £120,197.63 ",28/04/2020
+BRI25596,Spruce Street,Bristol,Midlands,"2,552",0.6," £388,470.33 "," £379,302.43 ",02/09/2020
+MAN54831,Wall Street,Manchester,North England,"2,101",0.9," £327,451.55 "," £276,925.77 ",13/08/2020
+BRI74816,Broadway,Bristol,Midlands,"1,163",0.1," £139,956.33 "," £118,151.13 ",30/03/2020
+ESS27508,Edgewood Drive,Essex,South England,"1,028",0.3," £168,452.46 "," £150,023.76 ",13/01/2020
+BRI42046,Broad Street,Bristol,Midlands,"1,411",18.5," £1,183,371.00 "," £1,075,802.58 ",15/08/2020
+BIR92535,Maiden Lane,Birmingham,Midlands,"2,788",0.8," £338,262.45 "," £331,767.81 ",04/01/2020
+LON32188,Ivy Lane,London,South England,"3,979",0.3," £991,858.55 "," £936,669.55 ",28/10/2020
+BIR38955,Linden Avenue,Birmingham,Midlands,"7,506",0.7," £822,782.28 "," £662,997.96 ",11/01/2020
+BRI43083,Oak Avenue,Bristol,Midlands,"1,888",0.8," £339,416.00 "," £326,586.08 ",03/04/2020
+LON31364,Jefferson Street,London,South England,"2,569",0.1," £871,139.99 "," £799,903.99 ",30/03/2020
+ESS71459,Charles Street,Essex,South England,"1,342",0.3," £192,015.02 "," £161,196.61 ",14/03/2020
+LON12829,School Street,London,South England,"2,825",0.4," £843,178.63 "," £762,480.63 ",13/10/2020
+LON92570,Route 17,London,South England,"2,151",0.4," £843,239.75 "," £773,694.75 ",02/02/2020
+LON61278,Bayberry Drive,London,South England,"9,993",0.3," £1,275,068.63 "," £1,211,935.63 ",08/10/2020
+BRI59302,Windsor Drive,Bristol,Midlands,"1,965",0.4," £238,920.84 "," £201,983.68 ",07/09/2020
+ESS77720,Liberty Street,Essex,South England,"2,801",17.7," £1,448,315.82 "," £1,185,301.67 ",02/03/2020
+BIR17051,Canterbury Road,Birmingham,Midlands,"2,188",0.2," £311,096.33 "," £261,756.45 ",17/10/2020
+LIV52850,Aspen Court,Liverpool,Midlands,"2,239",0.9," £305,885.45 "," £303,438.36 ",17/09/2020
+BRI61576,Morris Street,Bristol,Midlands,"1,706",0.9," £297,069.79 "," £271,462.38 ",09/11/2020
+BRI81612,Ashley Court,Bristol,Midlands,"1,139",0.8," £200,617.66 "," £191,910.85 ",24/03/2020
+LIV97154,5th Street,Liverpool,Midlands,"2,063",22.5," £2,038,660.72 "," £1,983,413.02 ",05/08/2022
+MID93234,Poplar Street,Middlesborough,North England,"2,076",0.2," £303,042.96 "," £257,434.99 ",06/12/2020
+LIV55702,Arlington Avenue,Liverpool,Midlands,"5,226",0.5," £593,214.65 "," £541,071.08 ",06/09/2020
+BRI90192,1st Avenue,Bristol,Midlands,"2,740",0.2," £371,070.90 "," £339,010.37 ",31/03/2020
+BRI64885,Harrison Street,Bristol,Midlands,"2,407",0.8," £379,703.75 "," £364,971.24 ",15/02/2020
+NEW68248,Depot Street,Newcastle,North England,"1,230",0.3," £200,510.10 "," £161,911.91 ",09/09/2020
+BIR71541,Warren Street,Birmingham,Midlands,"1,902",9," £697,461.31 "," £648,918.00 ",04/04/2020
+BRI94800,Augusta Drive,Bristol,Midlands,"1,962",2.7," £365,178.40 "," £322,342.98 ",12/11/2020
+BIR66889,Queen Street,Birmingham,Midlands,"2,585",0.9," £377,364.40 "," £337,590.19 ",17/06/2020
+LON93831,Heritage Drive,London,South England,"1,801",0.2," £751,583.41 "," £693,920.41 ",30/01/2020
+LIV35614,Ivy Court,Liverpool,Midlands,"2,865",0.9," £440,165.39 "," £389,062.18 ",25/02/2020
+MID45850,King Street,Middlesborough,North England,"1,952",0.7," £326,814.88 "," £310,964.36 ",15/01/2020
+ESS47890,Holly Court,Essex,South England,"1,553",1," £298,337.85 "," £253,467.84 ",25/02/2020
+BIR38250,Durham Road,Birmingham,Midlands,"2,318",0.3," £346,605.28 "," £335,097.98 ",29/09/2020
+BIR19544,Harrison Avenue,Birmingham,Midlands,"6,822",0.6," £898,257.28 "," £808,341.72 ",05/05/2020
+ESS41158,Route 9,Essex,South England,"4,939",0.8," £797,145.48 "," £763,984.23 ",18/11/2020
+BIR50242,Route 27,Birmingham,Midlands,"7,477",0.4," £1,083,739.25 "," £1,032,261.63 ",03/06/2020
+LON29996,East Street,London,South England,"5,924",0.5," £916,335.81 "," £845,989.81 ",29/04/2020
+MAN85509,Brook Lane,Manchester,North England,"2,539",0.6," £288,349.66 "," £267,963.34 ",20/06/2020
+NEW11072,Cambridge Road,Newcastle,North England,"2,272",0.4," £276,559.36 "," £266,160.73 ",19/03/2020
+BIR97882,Roberts Road,Birmingham,Midlands,"2,622",29.6," £2,624,476.42 "," £2,190,388.02 ",29/10/2020
+NEW59209,Union Street,Newcastle,North England,"2,918",0.3," £455,340.60 "," £371,375.79 ",20/06/2020
+NEW64410,Main Street North,Newcastle,North England,"1,934",0.3," £260,720.12 "," £257,408.98 ",01/12/2020
+LON43369,Locust Street,London,South England,"2,130",28.6," £2,076,061.15 "," £1,984,405.15 ",07/03/2020
+NEW63467,Henry Street,Newcastle,North England,"1,027",0.4," £132,961.50 "," £128,321.14 ",30/07/2020
+NEW61488,Shady Lane,Newcastle,North England,"2,367",0.8," £340,072.10 "," £275,390.39 ",18/08/2023
+ESS29059,Beechwood Drive,Essex,South England,"2,860",1," £475,935.55 "," £436,813.65 ",13/07/2020
+BIR65341,Atlantic Avenue,Birmingham,Midlands,"2,516",0.6," £377,259.72 "," £314,295.08 ",29/04/2020
+LON51937,Belmont Avenue,London,South England,"1,954",0.2," £806,562.05 "," £750,908.05 ",11/05/2020
+BIR69055,Street Road,Birmingham,Midlands,"1,465",0.7," £269,343.24 "," £239,284.54 ",20/12/2020
+BRI92690,Bay Street,Bristol,Midlands,"2,309",1," £336,718.80 "," £288,433.32 ",13/03/2020
+NEW31737,Magnolia Drive,Newcastle,North England,"2,549",27.3," £1,813,999.88 "," £1,602,306.09 ",27/10/2020
+LON34788,Jefferson Avenue,London,South England,"1,189",26," £2,162,749.85 "," £2,084,221.85 ",05/02/2020
+REA20581,Route 30,Reading,South England,"2,515",3," £529,531.37 "," £502,842.99 ",08/04/2020
+ESS56697,State Street East,Essex,South England,"2,760",0.1," £326,302.92 "," £302,743.85 ",20/09/2020
+REA69288,Durham Court,Reading,South England,"1,095",0.4," £175,005.39 "," £146,199.51 ",06/03/2020
+ESS13800,Devon Court,Essex,South England,"2,500",26.4," £2,265,672.46 "," £1,919,024.58 ",12/05/2020
+NEW88525,Canterbury Drive,Newcastle,North England,"4,391",0.7," £528,073.84 "," £435,924.95 ",16/02/2020
+BIR89644,Adams Avenue,Birmingham,Midlands,"2,024",0.8," £273,922.70 "," £234,751.75 ",21/05/2020
+BIR39747,Virginia Avenue,Birmingham,Midlands,"3,260",1," £423,877.20 "," £342,959.04 ",20/08/2020
+LIV67491,Rose Street,Liverpool,Midlands,"1,854",0.6," £261,895.53 "," £216,639.98 ",22/04/2020
+BRI87957,Summer Street,Bristol,Midlands,"2,966",0.8," £399,702.86 "," £390,030.05 ",01/05/2020
+NEW51931,Academy Street,Newcastle,North England,"1,978",0.9," £343,395.64 "," £338,141.69 ",01/01/2020
+LON40360,Garden Street,London,South England,"2,499",0.2," £893,383.37 "," £817,547.37 ",31/03/2020
+LIV25595,Homestead Drive,Liverpool,Midlands,"9,470",0.7," £1,100,518.21 "," £911,119.02 ",27/03/2020
+LIV72826,Euclid Avenue,Liverpool,Midlands,"7,970",0.6," £846,464.44 "," £764,442.03 ",01/10/2020
+BIR10556,Riverside Drive,Birmingham,Midlands,"1,926",0.2," £227,524.66 "," £207,138.45 ",22/08/2020
+BIR12280,White Street,Birmingham,Midlands,"2,283",0.3," £299,284.32 "," £263,968.77 ",29/02/2020
+NEW90469,Virginia Street,Newcastle,North England,"2,606",0.9," £409,261.33 "," £354,952.35 ",18/03/2020
+NEW36284,B Street,Newcastle,North England,"2,827",0.5," £397,000.16 "," £395,412.16 ",21/02/2020
+REA35207,Franklin Court,Reading,South England,"1,124",0.6," £196,374.11 "," £194,508.55 ",31/10/2020
+ESS69194,Creekside Drive,Essex,South England,"2,967",0.4," £416,760.38 "," £398,006.17 ",14/09/2020
+MAN85998,Elm Avenue,Manchester,North England,"1,916",0.6," £247,684.65 "," £210,482.42 ",26/09/2020
+BIR35354,4th Street West,Birmingham,Midlands,"2,529",0.8," £331,608.33 "," £313,767.80 ",06/03/2020
+LON28788,14th Street,London,South England,"1,261",0.2," £643,139.92 "," £575,972.92 ",14/04/2020
+MAN48127,Heather Lane,Manchester,North England,"1,424",0.3," £205,434.67 "," £183,329.90 ",02/03/2020
+LON33950,Route 32,London,South England,"2,865",0.2," £806,391.18 "," £713,511.18 ",06/11/2020
+REA57194,Amherst Street,Reading,South England,"2,189",0.6," £366,447.93 "," £341,053.09 ",30/07/2020
+LON77699,Route 11,London,South England,"6,641",0.6," £1,256,109.54 "," £1,196,536.54 ",25/09/2020
+MID65213,Devon Road,Middlesborough,North England,"2,064",0.4," £337,028.19 "," £321,760.81 ",08/02/2020
+NEW64757,Garfield Avenue,Newcastle,North England,"2,284",0.8," £400,255.70 "," £380,763.25 ",31/10/2020
+MID28842,8th Street South,Middlesborough,North England,"1,444",0.3," £237,716.04 "," £199,253.58 ",31/10/2020
+LIV80634,College Street,Liverpool,Midlands,"2,910",0.1," £316,084.13 "," £270,884.10 ",11/11/2020
+BIR49554,Hickory Street,Birmingham,Midlands,"1,396",0.7," £201,433.57 "," £161,368.43 ",28/06/2020
+NEW57644,Route 64,Newcastle,North England,"1,535",0.3," £236,514.63 "," £214,305.91 ",11/10/2020
+BIR85946,Brookside Drive,Birmingham,Midlands,"2,071",0.2," £287,016.25 "," £282,280.48 ",27/05/2020
+MID62597,State Street,Middlesborough,North England,"4,468",1," £542,293.88 "," £485,624.17 ",20/04/2020
+BIR15558,Eagle Street,Birmingham,Midlands,"8,545",0.5," £889,193.15 "," £872,920.92 ",19/11/2020
+LIV54710,Cleveland Avenue,Liverpool,Midlands,"1,140",0.7," £185,455.69 "," £153,186.40 ",29/05/2020
+LIV30585,Ridge Street,Liverpool,Midlands,"3,533",0.7," £399,783.28 "," £335,298.23 ",13/01/2020
+LIV90361,Holly Drive,Liverpool,Midlands,"6,847",0.9," £821,727.38 "," £719,915.35 ",02/01/2020
+REA50488,Hamilton Street,Reading,South England,"1,724",0.7," £268,857.53 "," £235,062.14 ",22/12/2020
+LON59881,Lafayette Avenue,London,South England,"2,645",0.5," £921,453.90 "," £823,901.90 ",13/11/2020
+BIR34233,Cedar Court,Birmingham,Midlands,"1,406",13," £868,657.64 "," £803,768.91 ",04/01/2020
+BIR97418,Circle Drive,Birmingham,Midlands,"2,679",0.7," £415,291.36 "," £393,239.38 ",07/12/2020
+BIR13635,Hillside Drive,Birmingham,Midlands,"6,338",0.6," £669,776.45 "," £591,144.69 ",04/04/2020
+MAN82815,Jackson Avenue,Manchester,North England,"1,917",0.5," £248,622.60 "," £233,307.45 ",31/08/2020
+MAN28147,Bridle Court,Manchester,North England,"1,773",0.4," £213,813.13 "," £213,043.40 ",25/10/2020
+NEW65902,Colonial Avenue,Newcastle,North England,"1,189",0.7," £202,690.96 "," £189,657.93 ",28/12/2020
+MID47155,Woodland Avenue,Middlesborough,North England,"1,053",0.8," £185,429.26 "," £166,478.39 ",31/03/2020
+LIV61825,York Road,Liverpool,Midlands,"2,596",0.7," £352,966.36 "," £310,645.70 ",17/11/2020
+BRI59429,Madison Court,Bristol,Midlands,"2,434",0.7," £351,059.85 "," £288,887.15 ",22/11/2020
+NEW69745,Church Street South,Newcastle,North England,"1,271",1," £223,918.15 "," £215,969.05 ",09/10/2020
+BIR89970,Route 29,Birmingham,Midlands,"2,589",0.7," £363,242.05 "," £314,240.69 ",12/07/2020
+NEW67942,Smith Street,Newcastle,North England,"2,663",0.7," £356,336.40 "," £332,034.26 ",26/09/2020
+ESS30026,Forest Street,Essex,South England,"2,656",0.2," £360,635.94 "," £353,026.52 ",12/07/2020
+BIR86189,Lexington Court,Birmingham,Midlands,"1,099",0.5," £138,147.70 "," £125,120.37 ",28/03/2020
+LON29779,Somerset Drive,London,South England,"7,777",0.2," £995,574.11 "," £909,784.11 ",19/11/2020
+LON96195,Railroad Street,London,South England,"2,893",0.5," £938,283.80 "," £868,528.80 ",25/05/2020
+ESS58201,Ridge Avenue,Essex,South England,"1,372",0.6," £249,319.22 "," £203,494.35 ",18/05/2020
+BRI64700,Beech Street,Bristol,Midlands,"1,539",0.5," £226,932.35 "," £194,344.87 ",15/03/2020
+BIR21595,South Street,Birmingham,Midlands,"1,424",0.4," £238,387.69 "," £227,803.27 ",07/11/2020
+BRI72906,Hill Street,Bristol,Midlands,"2,916",0.2," £315,297.47 "," £286,195.51 ",20/03/2020
+MAN90826,Cobblestone Court,Manchester,North England,"1,871",0.6," £254,493.22 "," £249,683.30 ",06/02/2020
+BIR66924,4th Street South,Birmingham,Midlands,"1,598",0.9," £233,666.46 "," £189,316.57 ",07/03/2020
+LON88549,Oak Lane,London,South England,"2,771",0.1," £885,979.92 "," £819,408.92 ",07/11/2020
+BIR54838,13th Street,Birmingham,Midlands,"1,852",0.4," £269,232.54 "," £242,793.90 ",08/05/2020
+MID60592,Fawn Lane,Middlesborough,North England,"2,798",0.1," £307,117.62 "," £303,247.94 ",06/11/2020
+MID55378,Sycamore Lane,Middlesborough,North England,"8,698",0.4," £1,281,629.50 "," £1,279,578.89 ",11/12/2020
+ESS91955,Deerfield Drive,Essex,South England,"2,663",0.5," £304,837.63 "," £284,626.89 ",16/11/2020
+BIR78725,Fawn Court,Birmingham,Midlands,"2,597",0.8," £363,670.29 "," £363,342.99 ",10/02/2020
+MID97054,Lake Street,Middlesborough,North England,"2,074",0.3," £310,786.34 "," £259,693.07 ",21/01/2020
+NEW76948,Cleveland Street,Newcastle,North England,"3,228",0.2," £490,878.29 "," £393,095.33 ",31/08/2020
+BRI30648,Walnut Street,Bristol,Midlands,"2,420",0.8," £343,176.83 "," £277,938.91 ",08/07/2020
+BIR11018,Westminster Drive,Birmingham,Midlands,"1,707",0.9," £253,878.64 "," £253,624.76 ",06/01/2020
+BIR30006,Walnut Avenue,Birmingham,Midlands,"4,738",0.9," £674,051.35 "," £606,241.78 ",29/05/2020
+NEW76078,Sherwood Drive,Newcastle,North England,"3,643",17.4," £1,342,330.48 "," £1,178,163.47 ",21/11/2020
+LON12254,West Street,London,South England,"2,162",0.3," £745,919.17 "," £653,668.17 ",24/10/2020
+BIR26950,Orchard Avenue,Birmingham,Midlands,"1,495",8," £766,118.06 "," £739,533.77 ",22/09/2020
+LIV65297,2nd Street East,Liverpool,Midlands,"2,868",0.4," £364,930.34 "," £337,889.00 ",04/05/2020
+NEW72740,York Street,Newcastle,North England,"1,448",0.5," £225,836.94 "," £200,769.04 ",22/03/2020
+BIR81719,Front Street,Birmingham,Midlands,"2,497",0.5," £364,661.71 "," £340,375.24 ",11/01/2020
+LON71372,Maple Lane,London,South England,"5,118",0.7," £1,081,144.10 "," £1,002,044.10 ",03/08/2022
+BIR82555,East Avenue,Birmingham,Midlands,"2,526",0.5," £359,927.73 "," £341,463.43 ",30/01/2020
+BIR85781,Primrose Lane,Birmingham,Midlands,"2,957",5.8," £806,429.26 "," £692,642.09 ",21/10/2020
+MID71174,Laurel Drive,Middlesborough,North England,"1,276",0.7," £184,547.52 "," £155,610.47 ",21/03/2020
+ESS13560,Mulberry Street,Essex,South England,"1,665",0.8," £266,654.14 "," £251,161.53 ",04/09/2020
+MID42552,Cooper Street,Middlesborough,North England,"1,090",0.8," £179,575.94 "," £153,393.76 ",20/04/2020
+NEW76418,Lantern Lane,Newcastle,North England,"7,313",0.7," £1,065,316.72 "," £999,906.27 ",10/12/2020
+LIV51511,Route 2,Liverpool,Midlands,"9,939",0.6," £1,479,501.65 "," £1,421,209.29 ",04/11/2020
+MAN93543,Essex Court,Manchester,North England,"1,073",0.6," £191,663.26 "," £163,948.75 ",26/12/2020
+BIR77974,Route 7,Birmingham,Midlands,"1,304",0.2," £191,709.44 "," £158,294.48 ",14/05/2020
+LIV79747,Chestnut Avenue,Liverpool,Midlands,"2,119",0.9," £322,328.77 "," £264,728.62 ",12/11/2020
+ESS78284,Bridle Lane,Essex,South England,"2,683",0.9," £409,188.35 "," £384,064.19 ",09/03/2020
+MAN83987,Buckingham Drive,Manchester,North England,"1,603",0.9," £257,344.95 "," £256,109.70 ",16/10/2020
+ESS75298,Main Street East,Essex,South England,"2,687",0.8," £407,019.59 "," £386,831.42 ",22/03/2020
+NEW41295,Forest Avenue,Newcastle,North England,"2,450",0.9," £425,513.26 "," £373,302.78 ",24/01/2020
+ESS42168,Chapel Street,Essex,South England,"2,533",0.5," £403,902.23 "," £378,456.38 ",10/07/2020
+LIV32067,Victoria Court,Liverpool,Midlands,"4,608",0.2," £478,979.04 "," £416,424.38 ",13/08/2020
+BRI94804,Tanglewood Drive,Bristol,Midlands,"1,414",0.1," £193,009.39 "," £179,325.02 ",15/07/2020
+BIR85494,Park Avenue,Birmingham,Midlands,"1,615",0.4," £230,647.98 "," £225,965.82 ",20/09/2020
+BIR39548,Jefferson Court,Birmingham,Midlands,"9,190",0.1," £1,275,281.37 "," £1,211,262.24 ",12/11/2020
+BRI77591,Franklin Street,Bristol,Midlands,"1,580",0.2," £197,487.58 "," £174,184.05 ",16/07/2020
+NEW51418,Madison Street,Newcastle,North England,"2,682",0.8," £336,112.88 "," £297,896.84 ",12/05/2020
+MID15187,4th Street North,Middlesborough,North England,"1,306",0.1," £170,712.08 "," £141,059.39 ",17/02/2020
+BRI59978,Cambridge Drive,Bristol,Midlands,"1,415",0.7," £217,740.75 "," £216,260.11 ",13/09/2020
+MAN87674,Washington Street,Manchester,North England,"2,213",7.1," £655,961.67 "," £619,555.79 ",16/09/2020
+LON24464,Hilltop Road,London,South England,"3,288",0.1," £870,295.17 "," £791,020.17 ",01/10/2020
+MAN28513,9th Street West,Manchester,North England,"4,924",1," £664,380.98 "," £645,113.93 ",21/05/2020
+BRI86202,6th Avenue,Bristol,Midlands,"2,643",0.6," £374,791.65 "," £331,203.38 ",19/06/2020
+BRI98736,Mill Street,Bristol,Midlands,"1,867",0.9," £327,588.46 "," £266,591.49 ",08/08/2020
+BIR88794,Willow Lane,Birmingham,Midlands,"2,579",4.7," £722,629.85 "," £617,848.52 ",28/02/2020
+LIV76410,Parker Street,Liverpool,Midlands,"1,130",0.3," £167,289.56 "," £136,792.67 ",23/08/2020
+NEW12578,Fieldstone Drive,Newcastle,North England,"9,542",0.5," £1,432,732.76 "," £1,224,843.23 ",27/11/2020
+NEW47366,Railroad Avenue,Newcastle,North England,"2,156",0.5," £264,685.83 "," £236,073.29 ",09/09/2020
+BRI29405,Forest Drive,Bristol,Midlands,"1,595",0.9," £304,513.74 "," £259,110.74 ",02/02/2020
+BIR24306,Sheffield Drive,Birmingham,Midlands,"2,460",0.5," £321,971.73 "," £279,761.23 ",11/07/2020
+MID19897,Cedar Street,Middlesborough,North England,"1,037",0.3," £121,718.44 "," £116,423.68 ",07/04/2020
+NEW62147,Old York Road,Newcastle,North England,"4,344",0.3," £452,648.00 "," £370,175.53 ",22/07/2020
+REA37850,Windsor Court,Reading,South England,"2,971",0.6," £472,306.76 "," £444,110.04 ",11/04/2020
+ESS22786,Route 44,Essex,South England,"1,340",0.7," £232,207.51 "," £223,731.94 ",16/02/2020
+BRI67641,4th Street,Bristol,Midlands,"2,598",0.7," £329,027.81 "," £305,601.03 ",24/12/2020
+MID44969,6th Street West,Middlesborough,North England,"1,872",0.9," £302,100.54 "," £279,624.26 ",17/02/2020
+MAN15584,Canterbury Court,Manchester,North England,"1,355",0.3," £178,536.47 "," £158,665.36 ",22/09/2020
+LIV39057,11th Street,Liverpool,Midlands,"2,123",1," £294,238.71 "," £246,601.46 ",11/05/2020
+MAN20559,Mill Road,Manchester,North England,"3,608",0.4," £411,701.50 "," £330,555.13 ",16/04/2020
+BIR83264,West Avenue,Birmingham,Midlands,"2,041",0.6," £280,932.65 "," £257,896.17 ",23/01/2020
+LIV21306,Fairview Avenue,Liverpool,Midlands,"2,654",0.9," £427,895.58 "," £388,914.29 ",14/06/2020
+NEW80943,Brown Street,Newcastle,North England,"2,407",0.9," £364,051.04 "," £355,750.68 ",18/08/2020
+BIR32050,Route 41,Birmingham,Midlands,"1,292",26.1," £1,690,015.85 "," £1,378,714.93 ",29/12/2020
+MAN80325,Canal Street,Manchester,North England,"1,100",23.9," £1,798,993.87 "," £1,594,987.97 ",22/03/2020
+MID45605,Sycamore Drive,Middlesborough,North England,"2,606",0.2," £393,670.26 "," £333,596.17 ",16/02/2020
+LON18955,Andover Court,London,South England,"2,175",0.5," £750,946.32 "," £679,428.32 ",31/08/2020
+BIR41559,Cherry Lane,Birmingham,Midlands,"1,868",0.6," £282,190.52 "," £226,824.74 ",19/09/2020
+ESS76812,Valley Drive,Essex,South England,"1,063",0.8," £214,033.05 "," £179,530.92 ",26/06/2020
+BRI15886,College Avenue,Bristol,Midlands,"1,011",0.2," £112,482.62 "," £99,490.88 ",26/05/2020
+NEW12666,8th Street,Newcastle,North England,"2,746",0.4," £355,826.97 "," £305,619.78 ",20/08/2020
+MAN44098,Elizabeth Street,Manchester,North England,"2,581",0.2," £300,983.18 "," £287,318.55 ",21/02/2020
+LON59176,Roosevelt Avenue,London,South England,"2,234",0.3," £823,213.80 "," £729,673.80 ",28/02/2020
+MID59397,Park Street,Middlesborough,North England,"2,236",0.6," £342,714.40 "," £287,057.58 ",25/11/2020
+MAN76055,Orchard Lane,Manchester,North England,"1,720",0.5," £274,738.13 "," £223,004.94 ",15/06/2020
+NEW90981,Sunset Drive,Newcastle,North England,"1,584",8.3," £834,070.53 "," £781,774.31 ",01/06/2020
+LON88969,Evergreen Drive,London,South England,"2,061",2.5," £958,083.24 "," £881,843.24 ",01/05/2020
+BIR96452,Hawthorne Avenue,Birmingham,Midlands,"2,784",0.5," £450,621.08 "," £398,078.66 ",25/07/2020
+BIR82140,Fairway Drive,Birmingham,Midlands,"1,712",0.8," £218,440.97 "," £211,145.04 ",29/05/2020
+NEW33762,Lafayette Street,Newcastle,North England,"2,832",0.5," £315,331.38 "," £299,217.95 ",15/03/2020
+NEW29407,Dogwood Drive,Newcastle,North England,"2,965",0.7," £427,465.26 "," £380,401.33 ",16/08/2020
+BRI10877,Lilac Lane,Bristol,Midlands,"1,984",0.3," £281,544.04 "," £267,889.15 ",12/10/2020
+REA10574,Strawberry Lane,Reading,South England,"1,344",19.4," £1,228,184.13 "," £1,032,411.58 ",03/11/2020
+BRI15407,7th Street,Bristol,Midlands,"1,858",0.4," £309,947.00 "," £283,322.55 ",04/05/2020
+MAN95234,5th Street North,Manchester,North England,"1,221",0.7," £191,375.19 "," £156,104.74 ",20/01/2020
+BIR82533,Pleasant Street,Birmingham,Midlands,"1,853",0.7," £318,300.68 "," £272,338.06 ",16/02/2020
+BIR93186,Clark Street,Birmingham,Midlands,"1,010",0.1," £155,690.34 "," £145,383.64 ",19/12/2020
+LON12258,Pennsylvania Avenue,London,South England,"2,104",0.5," £816,509.48 "," £761,887.48 ",17/03/2020
+REA38947,9th Street,Reading,South England,"2,318",0.5," £262,741.42 "," £228,243.47 ",03/04/2020
+LON30794,Summit Street,London,South England,"2,202",0.2," £784,102.28 "," £724,438.28 ",09/10/2020
+LON47891,Elm Street,London,South England,"2,109",0.2," £803,343.50 "," £742,027.50 ",10/01/2020
+ESS26336,Dogwood Lane,Essex,South England,"2,944",0.2," £358,030.88 "," £326,273.54 ",28/04/2020
+REA66335,Cottage Street,Reading,South England,"2,923",0.8," £466,180.36 "," £413,641.83 ",21/03/2020
+LIV20446,Locust Lane,Liverpool,Midlands,"1,805",0.2," £191,021.77 "," £164,355.13 ",26/12/2020
+LON27448,Spruce Avenue,London,South England,"8,336",0.2," £1,050,272.03 "," £962,740.03 ",29/10/2020
+BIR63772,Meadow Lane,Birmingham,Midlands,"1,918",0.3," £207,882.51 "," £184,682.82 ",18/02/2020
+BIR93857,George Street,Birmingham,Midlands,"5,071",0.6," £731,159.58 "," £715,732.11 ",18/04/2020
+ESS19736,Willow Street,Essex,South England,"2,641",0.9," £412,687.89 "," £332,007.41 ",09/06/2020
+LON23263,Woodland Road,London,South England,"2,847",9.8," £919,289.07 "," £820,517.07 ",21/03/2020
+LON59115,Ridge Road,London,South England,"2,527",0.8," £860,229.22 "," £773,586.22 ",29/04/2020
+MAN79393,Hudson Street,Manchester,North England,"1,216",28.8," £1,823,322.80 "," £1,542,348.76 ",23/01/2020
+ESS73898,5th Street West,Essex,South England,"1,728",0.6," £234,859.63 "," £201,509.57 ",23/09/2020
+BRI77757,Adams Street,Bristol,Midlands,"2,856",0.9," £341,879.47 "," £336,717.09 ",09/01/2020
+LON45653,Berkshire Drive,London,South England,"1,538",20," £1,617,054.30 "," £1,520,361.30 ",01/11/2020
+BIR31349,Franklin Avenue,Birmingham,Midlands,"2,152",0.8," £291,873.19 "," £259,504.45 ",12/09/2020
+LON18053,Hartford Road,London,South England,"1,866",0.4," £750,513.84 "," £688,582.84 ",02/02/2020
+NEW28926,Cedar Avenue,Newcastle,North England,"1,635",0.7," £228,291.28 "," £183,683.16 ",18/11/2020
+BRI55025,Schoolhouse Lane,Bristol,Midlands,"1,290",0.4," £153,970.41 "," £148,627.64 ",09/04/2020
+BIR73841,Water Street,Birmingham,Midlands,"1,848",0.2," £245,209.21 "," £204,210.23 ",03/07/2020
+BIR31950,Route 100,Birmingham,Midlands,"2,335",0.9," £290,805.04 "," £240,931.98 ",24/11/2020
+REA89668,1st Street,Reading,South England,"1,392",0.4," £214,341.12 "," £178,160.34 ",04/02/2020
+MID96132,Wood Street,Middlesborough,North England,"1,766",1," £285,521.45 "," £270,731.43 ",26/10/2020
+ESS71727,Maple Street,Essex,South England,"1,768",0.2," £277,787.90 "," £232,119.57 ",04/11/2020
+BIR93344,Jones Street,Birmingham,Midlands,"2,342",0.7," £391,640.25 "," £331,288.49 ",25/06/2020
+REA89419,Valley View Road,Reading,South England,"1,428",0.9," £233,820.30 "," £211,443.70 ",04/08/2020
+LON63803,Lake Avenue,London,South England,"8,744",0.7," £1,348,996.65 "," £1,266,639.65 ",31/05/2020
+NEW60204,Linda Lane,Newcastle,North England,"2,297",28.6," £2,134,115.10 "," £2,111,920.30 ",31/08/2020
+BRI18566,Winding Way,Bristol,Midlands,"1,162",0.5," £147,892.17 "," £120,310.28 ",01/04/2020
+MAN98130,Catherine Street,Manchester,North England,"2,808",0.6," £320,412.90 "," £304,584.50 ",12/12/2020
+LIV10502,Pheasant Run,Liverpool,Midlands,"2,168",0.3," £267,878.52 "," £267,798.16 ",01/04/2023
+LIV88357,Fulton Street,Liverpool,Midlands,"3,363",0.6," £411,283.18 "," £376,077.34 ",28/03/2020
+MAN83430,Hillcrest Drive,Manchester,North England,"1,019",0.2," £135,926.10 "," £116,135.26 ",10/03/2020
+LON58114,Olive Street,London,South England,"2,614",28.7," £1,983,320.96 "," £1,907,275.96 ",08/02/2020
+MAN76533,Mulberry Lane,Manchester,North England,"2,786",0.3," £435,300.04 "," £388,069.98 ",18/11/2020
+MAN35267,2nd Street West,Manchester,North England,"7,315",0.9," £1,096,488.10 "," £988,374.37 ",29/10/2020
+ESS59118,Oxford Road,Essex,South England,"2,607",0.6," £373,390.74 "," £362,002.32 ",27/10/2020
+LON73052,8th Avenue,London,South England,"2,384",0.2," £830,161.52 "," £757,040.52 ",16/04/2020
+BRI60832,Magnolia Court,Bristol,Midlands,"3,130",0.3," £334,439.10 "," £281,363.61 ",05/03/2020
+NEW75172,Hickory Lane,Newcastle,North England,"2,645",0.6," £350,087.19 "," £321,765.14 ",01/06/2020
+LON38312,Bank Street,London,South England,"1,066",0.9," £721,055.32 "," £634,582.32 ",06/06/2020
+BRI47552,Main Street,Bristol,Midlands,"7,202",0.6," £815,044.93 "," £788,637.48 ",04/10/2020
+ESS42978,Green Street,Essex,South England,"2,970",0.2," £430,686.35 "," £371,208.57 ",11/11/2020
+BIR91378,Buttonwood Drive,Birmingham,Midlands,"2,437",0.3," £297,325.34 "," £255,818.72 ",21/09/2020
+ESS44384,Lincoln Avenue,Essex,South England,"1,629",0.9," £217,585.12 "," £203,529.13 ",05/07/2020
+LIV44680,Penn Street,Liverpool,Midlands,"1,093",0.6," £190,204.50 "," £160,095.12 ",01/11/2020
+BIR39563,Meadow Street,Birmingham,Midlands,"1,505",0.7," £236,934.58 "," £227,291.34 ",05/10/2020
+LIV16501,Cambridge Court,Liverpool,Midlands,"2,463",0.8," £369,661.06 "," £302,863.30 ",18/02/2020
+MAN40087,Creek Road,Manchester,North England,"1,619",0.2," £236,007.93 "," £190,505.60 ",17/02/2020
+MAN92553,Edgewood Road,Manchester,North England,"2,675",0.8," £328,744.25 "," £296,264.32 ",06/02/2020
+LON58933,Myrtle Street,London,South England,"2,723",0.9," £912,362.40 "," £834,499.40 ",24/01/2022
+MAN94304,2nd Street,Manchester,North England,"1,219",0.2," £185,134.44 "," £159,234.13 ",21/01/2020
+LON78692,Washington Avenue,London,South England,"2,303",0.9," £800,635.37 "," £735,059.37 ",06/03/2020
+REA58452,Myrtle Avenue,Reading,South England,"2,877",0.8," £447,736.14 "," £386,082.87 ",07/10/2020
+BIR92922,2nd Street North,Birmingham,Midlands,"1,331",0.3," £154,361.64 "," £138,431.52 ",16/04/2020
+BIR87563,Country Club Drive,Birmingham,Midlands,"1,344",0.8," £240,185.40 "," £197,696.60 ",02/04/2020
+MAN63883,Church Road,Manchester,North England,"2,457",0.8," £298,132.33 "," £274,937.63 ",02/12/2020
+BIR96680,Cypress Court,Birmingham,Midlands,"2,636",15.2," £1,295,164.65 "," £1,198,286.33 ",05/02/2020
+REA77905,Crescent Street,Reading,South England,"2,264",0.7," £293,957.37 "," £282,257.87 ",19/08/2020
+ESS40087,New Street,Essex,South England,"2,305",1," £349,056.66 "," £325,984.01 ",17/03/2020
+ESS28481,5th Street South,Essex,South England,"2,380",0.3," £371,299.41 "," £352,103.23 ",25/03/2020
+BIR76119,Cedar Lane,Birmingham,Midlands,"3,000",0.9," £470,237.20 "," £434,028.94 ",23/05/2020
+NEW61865,Arch Street,Newcastle,North England,"1,929",0.7," £236,517.16 "," £226,417.88 ",03/08/2020
+BRI94363,Rosewood Drive,Bristol,Midlands,"1,115",0.7," £216,642.91 "," £185,078.04 ",03/10/2020
+BRI48263,Country Club Road,Bristol,Midlands,"2,696",0.2," £342,002.78 "," £277,706.26 ",18/05/2020
+REA26227,Broad Street West,Reading,South England,"1,857",0.1," £233,225.31 "," £232,805.50 ",17/04/2020
+LON21365,Essex Drive,London,South England,"7,197",0.3," £928,166.71 "," £839,758.71 ",02/05/2020
+BIR63077,Delaware Avenue,Birmingham,Midlands,"1,312",0.1," £201,328.99 "," £173,485.19 ",12/12/2020
+ESS83958,Inverness Drive,Essex,South England,"2,490",0.6," £318,911.96 "," £290,433.12 ",23/08/2020
+NEW76358,Highland Drive,Newcastle,North England,"4,772",0.7," £674,743.02 "," £563,747.79 ",16/10/2020
+LON66476,Sycamore Street,London,South England,"2,179",0.6," £845,163.62 "," £760,228.62 ",13/07/2020
+BRI48485,6th Street North,Bristol,Midlands,"5,438",0.4," £750,074.00 "," £686,917.77 ",15/07/2020
+BIR88795,12th Street East,Birmingham,Midlands,"1,789",0.8," £286,329.76 "," £283,094.24 ",24/06/2020
+LON66643,Main Street South,London,South England,"2,967",0.6," £850,634.90 "," £751,785.90 ",12/09/2020
+ESS83500,Oxford Court,Essex,South England,"2,165",0.5," £307,521.60 "," £285,349.29 ",07/04/2020
+ESS38685,Church Street North,Essex,South England,"2,672",0.9," £380,809.41 "," £338,158.76 ",11/10/2020
+MID61624,Orange Street,Middlesborough,North England,"2,071",0.9," £356,937.30 "," £329,631.59 ",24/05/2020
+MID63097,Jackson Street,Middlesborough,North England,"1,426",21.4," £1,380,331.49 "," £1,319,734.93 ",05/10/2020
+NEW97748,Grant Street,Newcastle,North England,"7,675",0.4," £1,184,403.30 "," £1,121,511.49 ",07/02/2020
+BRI98263,Route 10,Bristol,Midlands,"2,733",0.1," £361,030.84 "," £295,756.46 ",09/09/2020
+LIV57780,12th Street,Liverpool,Midlands,"2,306",0.8," £324,811.90 "," £292,817.93 ",08/02/2020
+LON41721,Lakeview Drive,London,South England,"1,864",0.4," £803,142.08 "," £750,024.08 ",01/06/2020
+NEW93888,William Street,Newcastle,North England,"2,051",23.1," £1,566,799.54 "," £1,488,302.88 ",18/12/2020
+LON32261,Briarwood Drive,London,South England,"4,596",0.9," £1,186,358.58 "," £1,086,874.58 ",18/04/2020
+MAN88306,Grove Avenue,Manchester,North England,"2,336",0.7," £292,129.74 "," £273,579.50 ",12/03/2020
+LON40745,Eagle Road,London,South England,"2,622",0.1," £896,477.90 "," £838,270.90 ",11/05/2020
+BIR83915,Monroe Street,Birmingham,Midlands,"2,281",0.4," £345,473.20 "," £343,434.91 ",23/11/2020
+BIR29886,Glenwood Drive,Birmingham,Midlands,"2,065",0.6," £239,093.09 "," £192,398.21 ",09/06/2020
+BIR94378,River Street,Birmingham,Midlands,"3,588",6.7," £830,511.77 "," £669,392.49 ",03/05/2020
+MID67757,Summit Avenue,Middlesborough,North England,"1,349",0.6," £244,232.04 "," £199,073.53 ",13/09/2020
+BRI32665,Division Street,Bristol,Midlands,"2,652",26.1," £1,728,646.90 "," £1,594,676.77 ",07/10/2020
+ESS87890,Colonial Drive,Essex,South England,"2,069",0.2," £266,858.28 "," £259,839.90 ",24/11/2020
+MAN54360,Cross Street,Manchester,North England,"1,718",0.7," £283,071.58 "," £280,212.55 ",15/09/2020
+BIR21213,Country Lane,Birmingham,Midlands,"2,715",1," £331,866.46 "," £284,741.43 ",07/03/2020
+BIR88859,Madison Avenue,Birmingham,Midlands,"1,053",0.6," £193,338.58 "," £156,894.25 ",25/10/2020
+LON28831,8th Street West,London,South England,"1,684",0.5," £739,023.12 "," £688,266.12 ",10/09/2020
+NEW83671,Columbia Street,Newcastle,North England,"1,893",0.8," £266,263.58 "," £242,273.23 ",25/03/2020
+BIR70176,Pin Oak Drive,Birmingham,Midlands,"1,699",0.7," £299,620.81 "," £264,774.91 ",20/04/2020
+REA48595,Valley View Drive,Reading,South England,"2,115",0.8," £259,696.09 "," £237,414.16 ",12/05/2020
+BIR89282,7th Avenue,Birmingham,Midlands,"2,148",1," £322,694.72 "," £320,629.48 ",05/05/2020
+BRI95609,North Street,Bristol,Midlands,"1,614",0.5," £205,946.18 "," £198,696.87 ",19/08/2020
+MAN33193,Sunset Avenue,Manchester,North England,"2,484",0.1," £363,879.27 "," £358,093.59 ",09/06/2020
+BRI16968,Center Street,Bristol,Midlands,"3,933",0.1," £408,320.73 "," £345,316.84 ",18/02/2020
+REA45098,Bridge Street,Reading,South England,"8,660",0.2," £968,720.25 "," £823,605.96 ",27/07/2020
+LON59674,Glenwood Avenue,London,South England,"2,837",0.2," £830,872.28 "," £762,471.28 ",22/02/2020
+LON57456,Market Street,London,South England,"2,111",0.8," £876,407.17 "," £798,180.17 ",23/05/2020
+LON92761,Manor Drive,London,South England,"1,189",0.2," £655,283.00 "," £593,845.00 ",19/10/2020
+BIR97313,Warren Avenue,Birmingham,Midlands,"5,821",7.6," £1,403,788.99 "," £1,146,193.71 ",02/02/2020
+BIR42489,Orchard Street,Birmingham,Midlands,"2,784",0.5," £419,611.50 "," £405,974.13 ",23/07/2020
+BRI41200,Mechanic Street,Bristol,Midlands,"1,733",25.9," £2,115,855.97 "," £1,796,573.30 ",28/09/2020
+LON93162,Aspen Drive,London,South England,"1,698",0.6," £768,635.27 "," £687,538.27 ",28/06/2020
+ESS73242,3rd Street,Essex,South England,"2,800",0.8," £444,474.07 "," £362,913.08 ",25/01/2020
+BRI82635,Howard Street,Bristol,Midlands,"1,154",0.7," £174,504.94 "," £141,296.65 ",25/04/2021
+NEW98714,Chestnut Street,Newcastle,North England,"2,408",0.2," £329,622.75 "," £282,420.77 ",02/05/2020
+BRI76639,Route 6,Bristol,Midlands,"1,372",0.6," £196,464.40 "," £191,081.27 ",01/02/2020
+ESS43985,Mulberry Court,Essex,South England,"2,078",0.4," £285,747.00 "," £271,573.95 ",14/12/2020
+BIR15616,Route 5,Birmingham,Midlands,"1,170",1," £250,598.79 "," £215,590.14 ",15/08/2021
+NEW35507,Central Avenue,Newcastle,North England,"2,968",0.6," £445,051.53 "," £424,178.62 ",27/05/2020
+MAN40884,Taylor Street,Manchester,North England,"2,748",15.3," £1,503,090.37 "," £1,464,911.87 ",01/01/2020
+ESS19320,Main Street West,Essex,South England,"2,660",1.5," £373,473.10 "," £328,768.37 ",05/04/2020
+MID36961,5th Avenue,Middlesborough,North England,"1,564",13.5," £1,168,075.20 "," £1,109,437.82 ",01/02/2020
+MAN86958,Prospect Avenue,Manchester,North England,"1,529",0.5," £198,854.72 "," £169,662.85 ",29/06/2020
+BRI60522,Clay Street,Bristol,Midlands,"2,401",11.9," £1,170,818.25 "," £1,065,093.36 ",22/05/2020
+LIV36834,Hawthorne Lane,Liverpool,Midlands,"3,121",29.1," £2,423,598.21 "," £2,034,125.97 ",22/07/2020
+BRI49478,Lawrence Street,Bristol,Midlands,"2,479",0.9," £401,448.55 "," £332,640.27 ",08/12/2020
+LON80833,Cherry Street,London,South England,"2,836",0.4," £905,047.37 "," £851,454.37 ",15/04/2020
+BIR74751,2nd Avenue,Birmingham,Midlands,"6,575",0.3," £708,821.56 "," £593,425.41 ",17/01/2020
+BIR23121,Front Street South,Birmingham,Midlands,"1,032",11.5," £1,042,965.00 "," £1,036,290.02 ",08/05/2020
+NEW19275,Oak Street,Newcastle,North England,"1,512",0.7," £231,394.16 "," £190,344.84 ",27/06/2020
+ESS84811,Monroe Drive,Essex,South England,"6,448",0.2," £759,892.80 "," £621,440.33 ",14/06/2020
+LIV17363,6th Street,Liverpool,Midlands,"1,823",0.2," £212,180.01 "," £181,159.30 ",09/09/2020
+MAN17191,Surrey Lane,Manchester,North England,"2,800",0.9," £425,113.00 "," £422,307.25 ",20/03/2020
+ESS15522,Grand Avenue,Essex,South England,"2,632",0.3," £401,391.64 "," £354,910.49 ",10/01/2024
+ESS86259,Redwood Drive,Essex,South England,"2,133",0.2," £235,213.20 "," £196,685.28 ",25/11/2020
+BIR98673,Marshall Street,Birmingham,Midlands,"1,590",0.3," £198,522.76 "," £168,307.60 ",23/12/2020
+LON52898,Grant Avenue,London,South England,"8,826",0.7," £1,363,456.19 "," £1,307,023.19 ",06/06/2020
+BRI68202,Cardinal Drive,Bristol,Midlands,"5,494",0.5," £721,245.62 "," £621,569.47 ",01/12/2020
+BIR35973,Carriage Drive,Birmingham,Midlands,"1,684",0.5," £229,389.09 "," £228,930.31 ",27/04/2020
